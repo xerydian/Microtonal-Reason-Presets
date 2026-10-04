@@ -4,9 +4,9 @@ from pathlib import Path
 from jinja2 import Environment, FileSystemLoader
 
 from microtonal_init_presets.lib import TEMPLATE_HELPERS
-from config import Carlos, EDOs, EDTs, ED6s
+from config import Carlos, EDOs, EDTs, ED6s, ZPIs
 
-_ = (EDOs, EDTs, ED6s, Carlos)  # used in eval
+_ = (EDOs, EDTs, ED6s, Carlos, ZPIs)  # used in eval
 
 env = Environment(
     loader = FileSystemLoader("templates")
@@ -54,6 +54,11 @@ def main() -> None:
         tuning_f = (lambda x: f"{x}-ED6"),
         harmonic = 6,
         monopoly = (lambda x: log2(6) * (8 / x) - (1/6)),
+    )
+    generate_tunings (
+        tuning_group = "ZPIs",
+        tuning_f = (lambda t: f"{t[0]}zpi"),
+        get_x = (lambda t: t[1]),
     )
     generate_tunings (
         tuning_group = "Carlos",

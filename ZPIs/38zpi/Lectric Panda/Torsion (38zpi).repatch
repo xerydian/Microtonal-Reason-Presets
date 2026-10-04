@@ -1,0 +1,1385 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.lectricpanda.Torsion"  deviceVersion="1.0" >
+    <DeviceNameInEnglish>
+        Torsion Texture Lab
+    </DeviceNameInEnglish>
+    <Samples/>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="grain_1_sample"  type="number" >
+                0
+            </Value>
+            <Value property="grain_1_emit_gate"  type="boolean" >
+                true
+            </Value>
+            <Value property="grain_1_emit_rate_free"  type="number" >
+                0
+            </Value>
+            <Value property="grain_1_emit_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="grain_1_emit_tempo_sync"  type="number" >
+                0
+            </Value>
+            <Value property="grain_1_emit_jitter"  type="number" >
+                0
+            </Value>
+            <Value property="grain_1_emit_rate_length_link"  type="boolean" >
+                true
+            </Value>
+            <Value property="grain_1_emit_length_scale"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_1_emit_length_free"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="grain_1_loop_gate_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="grain_1_loop_position_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_1_loop_size_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_1_loop_enable"  type="number" >
+                1
+            </Value>
+            <Value property="grain_1_position_pitch_link"  type="boolean" >
+                false
+            </Value>
+            <Value property="grain_1_pitch"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_1_direction"  type="number" >
+                0.5000998973846435546875
+            </Value>
+            <Value property="grain_1_position_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_1_shape"  type="number" >
+                0
+            </Value>
+            <Value property="grain_1_skew"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_1_spread"  type="number" >
+                0
+            </Value>
+            <Value property="grain_1_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_2_sample"  type="number" >
+                1
+            </Value>
+            <Value property="grain_2_emit_gate"  type="boolean" >
+                false
+            </Value>
+            <Value property="grain_2_emit_rate_free"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="grain_2_emit_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="grain_2_emit_tempo_sync"  type="number" >
+                0
+            </Value>
+            <Value property="grain_2_emit_jitter"  type="number" >
+                0
+            </Value>
+            <Value property="grain_2_emit_rate_length_link"  type="boolean" >
+                true
+            </Value>
+            <Value property="grain_2_emit_length_scale"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_2_emit_length_free"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="grain_2_loop_gate_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="grain_2_loop_position_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_2_loop_size_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_2_loop_enable"  type="number" >
+                1
+            </Value>
+            <Value property="grain_2_position_pitch_link"  type="boolean" >
+                false
+            </Value>
+            <Value property="grain_2_pitch"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_2_direction"  type="number" >
+                0.5000998973846435546875
+            </Value>
+            <Value property="grain_2_position_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_2_shape"  type="number" >
+                0
+            </Value>
+            <Value property="grain_2_skew"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_2_spread"  type="number" >
+                0
+            </Value>
+            <Value property="grain_2_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_sample"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_emit_gate"  type="boolean" >
+                false
+            </Value>
+            <Value property="grain_3_emit_rate_free"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="grain_3_emit_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="grain_3_emit_tempo_sync"  type="number" >
+                0
+            </Value>
+            <Value property="grain_3_emit_jitter"  type="number" >
+                0
+            </Value>
+            <Value property="grain_3_emit_rate_length_link"  type="boolean" >
+                true
+            </Value>
+            <Value property="grain_3_emit_length_scale"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_emit_length_free"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="grain_3_loop_gate_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="grain_3_loop_position_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_loop_size_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_loop_enable"  type="number" >
+                1
+            </Value>
+            <Value property="grain_3_position_pitch_link"  type="boolean" >
+                false
+            </Value>
+            <Value property="grain_3_pitch"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_direction"  type="number" >
+                0.5000998973846435546875
+            </Value>
+            <Value property="grain_3_position_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_shape"  type="number" >
+                0
+            </Value>
+            <Value property="grain_3_skew"  type="number" >
+                0.5
+            </Value>
+            <Value property="grain_3_spread"  type="number" >
+                0
+            </Value>
+            <Value property="grain_3_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="sample_1_loop_start_position"  type="number" >
+                0
+            </Value>
+            <Value property="sample_1_loop_end_position"  type="number" >
+                1
+            </Value>
+            <Value property="sample_1_offset_00"  type="number" >
+                0
+            </Value>
+            <Value property="sample_1_offset_01"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_1_offset_10"  type="number" >
+                0
+            </Value>
+            <Value property="sample_1_offset_11"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_2_loop_start_position"  type="number" >
+                0
+            </Value>
+            <Value property="sample_2_loop_end_position"  type="number" >
+                1
+            </Value>
+            <Value property="sample_2_offset_00"  type="number" >
+                0
+            </Value>
+            <Value property="sample_2_offset_01"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_2_offset_10"  type="number" >
+                0
+            </Value>
+            <Value property="sample_2_offset_11"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_3_loop_start_position"  type="number" >
+                0
+            </Value>
+            <Value property="sample_3_loop_end_position"  type="number" >
+                1
+            </Value>
+            <Value property="sample_3_offset_00"  type="number" >
+                0
+            </Value>
+            <Value property="sample_3_offset_01"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_3_offset_10"  type="number" >
+                0
+            </Value>
+            <Value property="sample_3_offset_11"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_4_loop_start_position"  type="number" >
+                0
+            </Value>
+            <Value property="sample_4_loop_end_position"  type="number" >
+                1
+            </Value>
+            <Value property="sample_4_offset_00"  type="number" >
+                0
+            </Value>
+            <Value property="sample_4_offset_01"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_4_offset_10"  type="number" >
+                0
+            </Value>
+            <Value property="sample_4_offset_11"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_5_loop_start_position"  type="number" >
+                0
+            </Value>
+            <Value property="sample_5_loop_end_position"  type="number" >
+                1
+            </Value>
+            <Value property="sample_5_offset_00"  type="number" >
+                0
+            </Value>
+            <Value property="sample_5_offset_01"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_5_offset_10"  type="number" >
+                0
+            </Value>
+            <Value property="sample_5_offset_11"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_6_loop_start_position"  type="number" >
+                0
+            </Value>
+            <Value property="sample_6_loop_end_position"  type="number" >
+                1
+            </Value>
+            <Value property="sample_6_offset_00"  type="number" >
+                0
+            </Value>
+            <Value property="sample_6_offset_01"  type="number" >
+                450000
+            </Value>
+            <Value property="sample_6_offset_10"  type="number" >
+                0
+            </Value>
+            <Value property="sample_6_offset_11"  type="number" >
+                450000
+            </Value>
+            <Value property="loop_lfo_1_phase"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_1_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_1_rate_free"  type="number" >
+                0.625
+            </Value>
+            <Value property="loop_lfo_1_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="loop_lfo_1_tempo_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="loop_lfo_1_waveform"  type="number" >
+                1
+            </Value>
+            <Value property="loop_lfo_1_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_1_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="loop_lfo_2_phase"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_2_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_2_rate_free"  type="number" >
+                0.625
+            </Value>
+            <Value property="loop_lfo_2_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="loop_lfo_2_tempo_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="loop_lfo_2_waveform"  type="number" >
+                1
+            </Value>
+            <Value property="loop_lfo_2_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_2_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="loop_lfo_3_phase"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_3_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_3_rate_free"  type="number" >
+                0.625
+            </Value>
+            <Value property="loop_lfo_3_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="loop_lfo_3_tempo_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="loop_lfo_3_waveform"  type="number" >
+                1
+            </Value>
+            <Value property="loop_lfo_3_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="loop_lfo_3_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo_1_phase"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo_1_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_1_rate_free"  type="number" >
+                0.219999790191650390625
+            </Value>
+            <Value property="lfo_1_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="lfo_1_tempo_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo_1_waveform"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_1_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_1_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo_2_phase"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo_2_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_2_rate_free"  type="number" >
+                0.219999790191650390625
+            </Value>
+            <Value property="lfo_2_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="lfo_2_tempo_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo_2_waveform"  type="number" >
+                1
+            </Value>
+            <Value property="lfo_2_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_2_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo_3_phase"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo_3_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_3_rate_free"  type="number" >
+                0.219999790191650390625
+            </Value>
+            <Value property="lfo_3_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="lfo_3_tempo_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo_3_waveform"  type="number" >
+                2
+            </Value>
+            <Value property="lfo_3_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_3_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo_4_phase"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo_4_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_4_rate_free"  type="number" >
+                0.219999790191650390625
+            </Value>
+            <Value property="lfo_4_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="lfo_4_tempo_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo_4_waveform"  type="number" >
+                3
+            </Value>
+            <Value property="lfo_4_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_4_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo_5_phase"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo_5_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_5_rate_free"  type="number" >
+                0.219999790191650390625
+            </Value>
+            <Value property="lfo_5_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="lfo_5_tempo_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo_5_waveform"  type="number" >
+                4
+            </Value>
+            <Value property="lfo_5_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_5_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo_6_phase"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo_6_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_6_rate_free"  type="number" >
+                0.219999790191650390625
+            </Value>
+            <Value property="lfo_6_rate_sync"  type="number" >
+                6
+            </Value>
+            <Value property="lfo_6_tempo_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo_6_waveform"  type="number" >
+                5
+            </Value>
+            <Value property="lfo_6_smooth"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_6_transport_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="master_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="dynamic_enable"  type="boolean" >
+                true
+            </Value>
+            <Value property="stereo_width"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="drift_1_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="drift_2_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="drift_3_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="noise_1_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="noise_2_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="noise_3_phase_stereo"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_1_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_1_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_1_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_1_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_1_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_1_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_1_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_2_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_2_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_2_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_2_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_2_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_2_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_2_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_3_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_3_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_3_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_3_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_3_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_3_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_3_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_4_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_4_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_4_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_4_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_4_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_4_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_4_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_5_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_5_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_5_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_5_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_5_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_5_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_5_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_6_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_6_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_6_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_6_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_6_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_6_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_6_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_7_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_7_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_7_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_7_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_7_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_7_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_7_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_8_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_8_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_8_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_8_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_8_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_8_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_8_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_9_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_9_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_9_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_9_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_9_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_9_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_9_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_10_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_10_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_10_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_10_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_10_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_10_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_10_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_11_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_11_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_11_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_11_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_11_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_11_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_11_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_12_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_12_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_12_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_12_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_12_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_12_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_12_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_13_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_13_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_13_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_13_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_13_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_13_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_13_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_14_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_14_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_14_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_14_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_14_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_14_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_14_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_15_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_15_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_15_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_15_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_15_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_15_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_15_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_16_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_16_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_16_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_16_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_16_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_16_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_16_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_17_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_17_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_17_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_17_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_17_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_17_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_17_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_18_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_18_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_18_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_18_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_18_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_18_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_18_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_19_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_19_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_19_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_19_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_19_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_19_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_19_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_20_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_20_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_20_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_20_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_20_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_20_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_20_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_21_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_21_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_21_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_21_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_21_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_21_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_21_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_22_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_22_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_22_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_22_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_22_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_22_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_22_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_23_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_23_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_23_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_23_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_23_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_23_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_23_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_24_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_24_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_24_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_24_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_24_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_24_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_24_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_25_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_25_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_25_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_25_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_25_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_25_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_25_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_26_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_26_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_26_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_26_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_26_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_26_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_26_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_27_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_27_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_27_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_27_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_27_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_27_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_27_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_28_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_28_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_28_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_28_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_28_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_28_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_28_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_29_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_29_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_29_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_29_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_29_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_29_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_29_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_30_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_30_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_30_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_30_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_30_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_30_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_30_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_31_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_31_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_31_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_31_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_31_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_31_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_31_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_32_source"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_32_dest_1"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_32_dest_2"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_32_scale"  type="number" >
+                0
+            </Value>
+            <Value property="modmatrix_32_dest_1_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_32_dest_2_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="modmatrix_32_scale_amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="display_zoom_x"  type="number" >
+                0.1949999332427978515625
+            </Value>
+            <Value property="display_zoom_y"  type="number" >
+                0
+            </Value>
+            <Value property="display_mode"  type="number" >
+                1
+            </Value>
+            <Value property="key_pitch"  type="number" >
+                0.9253077463644468
+            </Value>
+        </Object>
+        <Object name="device_host" >
+            <Value property="sample_context"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+        <Object name="user_samples/user_sample_0" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/user_sample_1" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/user_sample_2" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/user_sample_3" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/user_sample_4" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/user_sample_5" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+    </Properties>
+</JukeboxPatch>

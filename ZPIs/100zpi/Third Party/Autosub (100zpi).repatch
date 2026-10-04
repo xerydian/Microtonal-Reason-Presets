@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.forgottenclankstudios.Autosub"  deviceVersion="1.3.1" >
+    <DeviceNameInEnglish>
+        Autosub
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Performance_PitchWheelRange"  type="number" >
+                12
+            </Value>
+            <Value property="Performance_Polyphony"  type="number" >
+                0
+            </Value>
+            <Value property="Performance_KbdMode"  type="number" >
+                0
+            </Value>
+            <Value property="Basic_PitchDepth"  type="number" >
+                0
+            </Value>
+            <Value property="Basic_PitchTime"  type="number" >
+                0
+            </Value>
+            <Value property="Basic_Octave"  type="number" >
+                4
+            </Value>
+            <Value property="Basic_Semitones"  type="number" >
+                12
+            </Value>
+            <Value property="Basic_FineTune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Basic_KbdTracking"  type="number" >
+                0.4626827176523716
+            </Value>
+            <Value property="PartialModifier1"  type="number" >
+                0
+            </Value>
+            <Value property="PartialModifier2"  type="number" >
+                0
+            </Value>
+            <Value property="PartialModifier3"  type="number" >
+                1
+            </Value>
+            <Value property="ADSR_Attack"  type="number" >
+                0.349999904632568359375
+            </Value>
+            <Value property="ADSR_Decay"  type="number" >
+                0.75
+            </Value>
+            <Value property="ADSR_Sustain"  type="number" >
+                1
+            </Value>
+            <Value property="ADSR_Release"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="Performance_Portamento"  type="number" >
+                0.0077998638153076171875
+            </Value>
+            <Value property="Performance_Port_AdjustTiming"  type="number" >
+                0
+            </Value>
+            <Value property="Volume"  type="number" >
+                0.5
+            </Value>
+            <Value property="Volume_CompensateGain"  type="number" >
+                0
+            </Value>
+            <Value property="Other_FrequencyDependency"  type="number" >
+                1
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

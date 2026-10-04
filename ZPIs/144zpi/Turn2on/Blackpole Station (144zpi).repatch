@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Blackpole Station Polyphonic Synthesizer
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="ru.turn2on.Blackpole"  deviceVersion="1.2.2" >
+        <Object name="custom_properties" >
+            <Value property="Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Octave"  type="number" >
+                2
+            </Value>
+            <Value property="Pitch_Range"  type="number" >
+                1
+            </Value>
+            <Value property="pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Volume"  type="number" >
+                0.6309568881988525390625
+            </Value>
+            <Value property="Osc1_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Osc2_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Osc3_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Ring_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Noise_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Osc1_X7_Bypass"  type="number" >
+                1
+            </Value>
+            <Value property="Osc1_X7_Voices"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1_X7_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1_X7_Detune"  type="number" >
+                0.25
+            </Value>
+            <Value property="Osc1_X7_Mix"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1_X7_Sub"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1"  type="number" >
+                1
+            </Value>
+            <Value property="Zone"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1_KbTracking"  type="number" >
+                0.5881190780012656
+            </Value>
+            <Value property="Pan1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2_X7_Bypass"  type="number" >
+                1
+            </Value>
+            <Value property="Osc2_X7_Voices"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2_X7_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2_X7_Detune"  type="number" >
+                0.25
+            </Value>
+            <Value property="Osc2_X7_Mix"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2_X7_Sub"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2"  type="number" >
+                1
+            </Value>
+            <Value property="Zone2"  type="number" >
+                28
+            </Value>
+            <Value property="Osc2_KbTracking"  type="number" >
+                0.5881190780012656
+            </Value>
+            <Value property="Pan2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3_X7_Bypass"  type="number" >
+                1
+            </Value>
+            <Value property="Osc3_X7_Voices"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3_X7_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3_X7_Detune"  type="number" >
+                0.25
+            </Value>
+            <Value property="Osc3_X7_Mix"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3_X7_Sub"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3"  type="number" >
+                1
+            </Value>
+            <Value property="Zone3"  type="number" >
+                0
+            </Value>
+            <Value property="SubOsc_KbTracking"  type="number" >
+                0.5881190780012656
+            </Value>
+            <Value property="Pan3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ring_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ring_Osc"  type="number" >
+                0
+            </Value>
+            <Value property="Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Comb_Tune"  type="number" >
+                0.0230691432952880859375
+            </Value>
+            <Value property="Comb_Keytrack"  type="number" >
+                0
+            </Value>
+            <Value property="Comb_Feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comb_Damping"  type="number" >
+                1
+            </Value>
+            <Value property="Comb_Stiffness"  type="number" >
+                0
+            </Value>
+            <Value property="Comb_Mix"  type="number" >
+                1
+            </Value>
+            <Value property="Noise_Color"  type="number" >
+                0.5
+            </Value>
+            <Value property="Noise_Osc"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Rate"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Rate"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_Rate"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Depth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Depth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_Depth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Destination"  type="number" >
+                2
+            </Value>
+            <Value property="LFO2_Destination"  type="number" >
+                2
+            </Value>
+            <Value property="LFO3_Destination"  type="number" >
+                2
+            </Value>
+            <Value property="LFO1_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Retrigger"  type="number" >
+                1
+            </Value>
+            <Value property="LFO2_Retrigger"  type="number" >
+                1
+            </Value>
+            <Value property="LFO3_Retrigger"  type="number" >
+                1
+            </Value>
+            <Value property="LFO1_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Filter1_Cutoff"  type="number" >
+                0.75
+            </Value>
+            <Value property="Filter1_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter1_Env"  type="number" >
+                0.875
+            </Value>
+            <Value property="Filter1_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Filter1_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="Filter2_Cutoff"  type="number" >
+                0.75
+            </Value>
+            <Value property="Filter2_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter2_Env"  type="number" >
+                0.875
+            </Value>
+            <Value property="Filter2_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Filter2_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="Filter3_Cutoff"  type="number" >
+                0.75
+            </Value>
+            <Value property="Filter3_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter3_Env"  type="number" >
+                0.875
+            </Value>
+            <Value property="Filter3_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Filter3_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="Shaper1_Drive"  type="number" >
+                0.4474999904632568359375
+            </Value>
+            <Value property="Shaper1_Bypass"  type="number" >
+                1
+            </Value>
+            <Value property="Shaper2_Drive"  type="number" >
+                0.4474999904632568359375
+            </Value>
+            <Value property="Shaper2_Bypass"  type="number" >
+                1
+            </Value>
+            <Value property="Shaper3_Drive"  type="number" >
+                0.4474999904632568359375
+            </Value>
+            <Value property="Shaper3_Bypass"  type="number" >
+                1
+            </Value>
+            <Value property="Filter1_EnvRes"  type="number" >
+                0.875
+            </Value>
+            <Value property="Filter2_EnvRes"  type="number" >
+                0.875
+            </Value>
+            <Value property="Filter3_EnvRes"  type="number" >
+                0.875
+            </Value>
+            <Value property="Spread1"  type="boolean" >
+                false
+            </Value>
+            <Value property="Spread1_Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Spread2"  type="boolean" >
+                false
+            </Value>
+            <Value property="Spread2_Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Spread3"  type="boolean" >
+                false
+            </Value>
+            <Value property="Spread3_Spread"  type="number" >
+                0.5
+            </Value>
+            <Value property="Haas1"  type="boolean" >
+                false
+            </Value>
+            <Value property="Haas2"  type="boolean" >
+                false
+            </Value>
+            <Value property="Haas3"  type="boolean" >
+                false
+            </Value>
+            <Value property="Filter_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Filter_Hold"  type="number" >
+                0
+            </Value>
+            <Value property="Filter_Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter_Sustain"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter_Release"  type="number" >
+                0.25
+            </Value>
+            <Value property="Amp_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Amp_Hold"  type="number" >
+                0
+            </Value>
+            <Value property="Amp_Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp_Sustain"  type="number" >
+                1
+            </Value>
+            <Value property="Amp_Release"  type="number" >
+                0.25
+            </Value>
+            <Value property="Amp_Velocity"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ1"  type="number" >
+                1
+            </Value>
+            <Value property="EQ1_Freq"  type="number" >
+                0
+            </Value>
+            <Value property="EQ1_Width"  type="number" >
+                1
+            </Value>
+            <Value property="EQ1_Gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ2"  type="number" >
+                1
+            </Value>
+            <Value property="EQ2_Freq"  type="number" >
+                0
+            </Value>
+            <Value property="EQ2_Width"  type="number" >
+                1
+            </Value>
+            <Value property="EQ2_Gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ3"  type="number" >
+                1
+            </Value>
+            <Value property="EQ3_Freq"  type="number" >
+                0
+            </Value>
+            <Value property="EQ3_Width"  type="number" >
+                1
+            </Value>
+            <Value property="EQ3_Gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_2_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_2_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_3_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_3_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Pre_Filter"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pre_Filter_Mode"  type="number" >
+                4
+            </Value>
+            <Value property="Pre_Filter_Cutoff"  type="number" >
+                0
+            </Value>
+            <Value property="Pre_Filter_Resonance"  type="number" >
+                0
+            </Value>
+            <Value property="Pre_Filter_Rev"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pre_Filter_Rev_Decay"  type="number" >
+                0.501186847686767578125
+            </Value>
+            <Value property="Pre_Filter_Rev2"  type="boolean" >
+                false
+            </Value>
+            <Value property="Limiter"  type="boolean" >
+                true
+            </Value>
+            <Value property="Limiter_Release"  type="number" >
+                0
+            </Value>
+            <Value property="Limiter_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="DistortionA"  type="boolean" >
+                false
+            </Value>
+            <Value property="DistortionA_Drive"  type="number" >
+                0.8599998950958251953125
+            </Value>
+            <Value property="DistortionA_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Chorus"  type="boolean" >
+                false
+            </Value>
+            <Value property="Chorus_Depth"  type="number" >
+                0.25
+            </Value>
+            <Value property="Chorus_Rate"  type="number" >
+                0
+            </Value>
+            <Value property="Chorus_Voices"  type="number" >
+                0
+            </Value>
+            <Value property="Chorus_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Delay"  type="boolean" >
+                false
+            </Value>
+            <Value property="Delay_Time"  type="number" >
+                0.25
+            </Value>
+            <Value property="Delay_Feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Damping"  type="number" >
+                1
+            </Value>
+            <Value property="Delay_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Reverb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Reverb_Time"  type="number" >
+                0.25
+            </Value>
+            <Value property="Reverb_Pre_Delay"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Reverb_Damping"  type="number" >
+                1
+            </Value>
+            <Value property="Reverb_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Delay_Ratio"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Delay_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Phaser"  type="boolean" >
+                false
+            </Value>
+            <Value property="Phaser_Rate"  type="number" >
+                0
+            </Value>
+            <Value property="Phaser_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phaser_Feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phaser_Mix"  type="number" >
+                0.5
+            </Value>
+            <Value property="End_Filter"  type="boolean" >
+                false
+            </Value>
+            <Value property="End_Filter_Mode"  type="number" >
+                4
+            </Value>
+            <Value property="End_Filter_Cutoff"  type="number" >
+                0
+            </Value>
+            <Value property="End_Filter_Resonance"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Time"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Destination"  type="number" >
+                1
+            </Value>
+            <Value property="Glide_Depth"  type="number" >
+                1
+            </Value>
+            <Value property="Glide_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO_Wheel_Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="Resonance_Wheel_Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="Frequency_Wheel_Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="popup_button"  type="number" >
+                0
+            </Value>
+            <Value property="ConvoDecay"  type="number" >
+                0.501186847686767578125
+            </Value>
+            <Value property="ConvoMix"  type="number" >
+                0
+            </Value>
+            <Value property="ConvoDelay"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1_Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Osc2_Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Osc3_Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Flw"  type="boolean" >
+                false
+            </Value>
+            <Value property="Flw_at"  type="number" >
+                0
+            </Value>
+            <Value property="Flw_rel"  type="number" >
+                0
+            </Value>
+            <Value property="Flw_dest"  type="number" >
+                1
+            </Value>
+            <Value property="blob_to_load"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

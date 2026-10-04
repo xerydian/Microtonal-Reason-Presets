@@ -25,6 +25,8 @@ This pack contains presets in:
 - 26edt (double BP), 39edt (triple BP), 22edt (~14edo), 27edt (~~17edo), 30edt (~~19edo), 
 <br>43edt (~~27edo), 54edt (~~34edo)
 - Wendy Carlos' Alpha, Beta & Gamma
+- 38zpi, 39zpi, 42zpi, 45zpi, 47zpi, 51zpi, 53zpi, 56zpi, 59zpi, 61zpi, 65zpi, 70zpi, 
+ 71zpi, 75zpi, 80zpi, 84zpi, 100zpi, 106zpi, 116zpi, 127zpi, 137zpi, 144zpi, 184zpi, 
 
 For the following Rack instruments:
 - **Reason Studio**: Complex-1, Europa, Grain, Parsec, Polytone

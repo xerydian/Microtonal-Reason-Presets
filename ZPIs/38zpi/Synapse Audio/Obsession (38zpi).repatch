@@ -1,0 +1,2825 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.synapseAudioSoftware.Obsession"  deviceVersion="1.2" >
+    <DeviceNameInEnglish>
+        Obsession
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="partsmode"  type="number" >
+                0
+            </Value>
+            <Value property="partsmix"  type="number" >
+                0.5
+            </Value>
+            <Value property="effects"  type="number" >
+                0
+            </Value>
+            <Value property="tuning"  type="number" >
+                0.5
+            </Value>
+            <Value property="spread"  type="number" >
+                0.5
+            </Value>
+            <Value property="outputvolume"  type="number" >
+                0.5
+            </Value>
+            <Value property="portamento"  type="number" >
+                0
+            </Value>
+            <Value property="unison"  type="number" >
+                0
+            </Value>
+            <Value property="modlforate_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="modlforate_1_sync"  type="number" >
+                13
+            </Value>
+            <Value property="modlfoshape_1"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqdepth_1"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqosc1_1"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqosc2_1"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqfilter_1"  type="number" >
+                0
+            </Value>
+            <Value property="modpwdepth_1"  type="number" >
+                0
+            </Value>
+            <Value property="modpwosc1_1"  type="number" >
+                0
+            </Value>
+            <Value property="modpwosc2_1"  type="number" >
+                0
+            </Value>
+            <Value property="modlforate_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="modlforate_2_sync"  type="number" >
+                13
+            </Value>
+            <Value property="modlfoshape_2"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqdepth_2"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqosc1_2"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqosc2_2"  type="number" >
+                0
+            </Value>
+            <Value property="modfreqfilter_2"  type="number" >
+                0
+            </Value>
+            <Value property="modpwdepth_2"  type="number" >
+                0
+            </Value>
+            <Value property="modpwosc1_2"  type="number" >
+                0
+            </Value>
+            <Value property="modpwosc2_2"  type="number" >
+                0
+            </Value>
+            <Value property="numdisplaybars01"  type="number" >
+                2
+            </Value>
+            <Value property="numdisplaybars02"  type="number" >
+                2
+            </Value>
+            <Value property="barsoneshot01"  type="number" >
+                0
+            </Value>
+            <Value property="barsoneshot02"  type="number" >
+                0
+            </Value>
+            <Value property="barsfltenvretrig"  type="number" >
+                0
+            </Value>
+            <Value property="osc1freq"  type="number" >
+                0
+            </Value>
+            <Value property="oscpw"  type="number" >
+                0
+            </Value>
+            <Value property="osc2freq"  type="number" >
+                0
+            </Value>
+            <Value property="osc1wavesaw"  type="number" >
+                1
+            </Value>
+            <Value property="osc1wavepulse"  type="number" >
+                0
+            </Value>
+            <Value property="oscpwosc2sync"  type="number" >
+                0
+            </Value>
+            <Value property="oscpwosc2fenv"  type="number" >
+                0
+            </Value>
+            <Value property="osc2detune"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2xmod"  type="number" >
+                0
+            </Value>
+            <Value property="osc2wavesaw"  type="number" >
+                1
+            </Value>
+            <Value property="osc2wavepulse"  type="number" >
+                0
+            </Value>
+            <Value property="p2osc1freq"  type="number" >
+                0
+            </Value>
+            <Value property="p2oscpw"  type="number" >
+                0
+            </Value>
+            <Value property="p2osc2freq"  type="number" >
+                0
+            </Value>
+            <Value property="p2osc1wavesaw"  type="number" >
+                1
+            </Value>
+            <Value property="p2osc1wavepulse"  type="number" >
+                0
+            </Value>
+            <Value property="p2oscpwosc2sync"  type="number" >
+                0
+            </Value>
+            <Value property="p2oscpwosc2fenv"  type="number" >
+                0
+            </Value>
+            <Value property="p2osc2detune"  type="number" >
+                0.5
+            </Value>
+            <Value property="p2osc2xmod"  type="number" >
+                0
+            </Value>
+            <Value property="p2osc2wavesaw"  type="number" >
+                1
+            </Value>
+            <Value property="p2osc2wavepulse"  type="number" >
+                0
+            </Value>
+            <Value property="filterfreq"  type="number" >
+                1
+            </Value>
+            <Value property="filterreso"  type="number" >
+                0
+            </Value>
+            <Value property="filtermod"  type="number" >
+                0.5
+            </Value>
+            <Value property="filterosc1"  type="number" >
+                1
+            </Value>
+            <Value property="filterosc2"  type="number" >
+                2
+            </Value>
+            <Value property="filternoise"  type="number" >
+                0
+            </Value>
+            <Value property="filterbp"  type="number" >
+                0
+            </Value>
+            <Value property="filter4pole"  type="number" >
+                0
+            </Value>
+            <Value property="filtertrack"  type="number" >
+                0
+            </Value>
+            <Value property="p2filterfreq"  type="number" >
+                1
+            </Value>
+            <Value property="p2filterreso"  type="number" >
+                0
+            </Value>
+            <Value property="p2filtermod"  type="number" >
+                0.5
+            </Value>
+            <Value property="p2filterosc1"  type="number" >
+                1
+            </Value>
+            <Value property="p2filterosc2"  type="number" >
+                2
+            </Value>
+            <Value property="p2filternoise"  type="number" >
+                0
+            </Value>
+            <Value property="p2filterbp"  type="number" >
+                0
+            </Value>
+            <Value property="p2filter4pole"  type="number" >
+                0
+            </Value>
+            <Value property="p2filtertrack"  type="number" >
+                0
+            </Value>
+            <Value property="filterattack"  type="number" >
+                0
+            </Value>
+            <Value property="filterdecay"  type="number" >
+                0.5
+            </Value>
+            <Value property="filtersustain"  type="number" >
+                1
+            </Value>
+            <Value property="filterrelease"  type="number" >
+                0
+            </Value>
+            <Value property="ampenvattack"  type="number" >
+                0
+            </Value>
+            <Value property="ampenvdecay"  type="number" >
+                0.5
+            </Value>
+            <Value property="ampenvsustain"  type="number" >
+                1
+            </Value>
+            <Value property="ampenvrelease"  type="number" >
+                0
+            </Value>
+            <Value property="p2filterattack"  type="number" >
+                0
+            </Value>
+            <Value property="p2filterdecay"  type="number" >
+                0.5
+            </Value>
+            <Value property="p2filtersustain"  type="number" >
+                1
+            </Value>
+            <Value property="p2filterrelease"  type="number" >
+                0
+            </Value>
+            <Value property="p2ampenvattack"  type="number" >
+                0
+            </Value>
+            <Value property="p2ampenvdecay"  type="number" >
+                0.5
+            </Value>
+            <Value property="p2ampenvsustain"  type="number" >
+                1
+            </Value>
+            <Value property="p2ampenvrelease"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc1mute"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc2mute"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc3mute"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc4mute"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc5mute"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc6mute"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc7mute"  type="number" >
+                0
+            </Value>
+            <Value property="v8vc8mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc1mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc2mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc3mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc4mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc5mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc6mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc7mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc8mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc9mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc10mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc11mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc12mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc13mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc14mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc15mute"  type="number" >
+                0
+            </Value>
+            <Value property="v16vc16mute"  type="number" >
+                0
+            </Value>
+            <Value property="modwheel"  type="number" >
+                0
+            </Value>
+            <Value property="voice_adjustments_edit"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_edit_select"  type="number" >
+                0
+            </Value>
+            <Value property="lfo_rate_sync_bg"  type="number" >
+                0
+            </Value>
+            <Value property="oscpw_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2detune_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2xmod_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="filterfreq_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="filterreso_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="filtermod_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="filterattack_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="filterdecay_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="filtersustain_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="filterrelease_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="ampenvattack_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="ampenvdecay_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="ampenvsustain_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="ampenvrelease_oradjst_buff"  type="number" >
+                0.5
+            </Value>
+            <Value property="voicesmode"  type="number" >
+                0
+            </Value>
+            <Value property="barssoften01"  type="number" >
+                0
+            </Value>
+            <Value property="barssoften02"  type="number" >
+                0
+            </Value>
+            <Value property="empty_parameter"  type="number" >
+                0
+            </Value>
+            <Value property="empty_parameter_button"  type="number" >
+                0
+            </Value>
+            <Value property="filter_input_volume"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource1"  type="number" >
+                1
+            </Value>
+            <Value property="mmamount1"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination1"  type="number" >
+                4
+            </Value>
+            <Value property="mmsource2"  type="number" >
+                5
+            </Value>
+            <Value property="mmamount2"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination2"  type="number" >
+                3
+            </Value>
+            <Value property="mmsource3"  type="number" >
+                10
+            </Value>
+            <Value property="mmamount3"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination3"  type="number" >
+                27
+            </Value>
+            <Value property="mmsource4"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount4"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination4"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource5"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount5"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination5"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource6"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount6"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination6"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource7"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount7"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination7"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource8"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount8"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination8"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource9"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount9"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination9"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource10"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount10"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination10"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource11"  type="number" >
+                0
+            </Value>
+            <Value property="mmamount11"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmdestination11"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource12"  type="number" >
+                7
+            </Value>
+            <Value property="mmamount12"  type="number" >
+                0.4813269365911117
+            </Value>
+            <Value property="mmdestination12"  type="number" >
+                5
+            </Value>
+            <Value property="fxreverbonoff"  type="number" >
+                1
+            </Value>
+            <Value property="fxreverbchorale"  type="number" >
+                0
+            </Value>
+            <Value property="fxreverbtime"  type="number" >
+                0.5
+            </Value>
+            <Value property="fxreverbcolor"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="fxreverbwidth"  type="number" >
+                1
+            </Value>
+            <Value property="fxreverbregen"  type="number" >
+                0
+            </Value>
+            <Value property="fxreverbshimmer"  type="number" >
+                0
+            </Value>
+            <Value property="fxreverbdrywet"  type="number" >
+                0.25
+            </Value>
+            <Value property="fxdelayonoff"  type="number" >
+                1
+            </Value>
+            <Value property="fxdelayxmode"  type="number" >
+                0
+            </Value>
+            <Value property="fxdelaytime"  type="number" >
+                7
+            </Value>
+            <Value property="fxdelayfeedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="fxdelaywidth"  type="number" >
+                1
+            </Value>
+            <Value property="fxdelaylowcut"  type="number" >
+                0
+            </Value>
+            <Value property="fxdelayhighcut"  type="number" >
+                0
+            </Value>
+            <Value property="fxdelaydrywet"  type="number" >
+                0.25
+            </Value>
+            <Value property="fxchorusonoff"  type="number" >
+                1
+            </Value>
+            <Value property="fxchorusensemble"  type="number" >
+                0
+            </Value>
+            <Value property="fxchorusrate"  type="number" >
+                0.5
+            </Value>
+            <Value property="fxchoruslowcut"  type="number" >
+                0
+            </Value>
+            <Value property="fxchorushighcut"  type="number" >
+                0
+            </Value>
+            <Value property="fxchorusdrywet"  type="number" >
+                0.25
+            </Value>
+            <Value property="vcasat"  type="number" >
+                0
+            </Value>
+            <Value property="limiter"  type="number" >
+                0
+            </Value>
+            <Value property="organic"  type="number" >
+                0
+            </Value>
+            <Value property="pbrangeup"  type="number" >
+                12
+            </Value>
+            <Value property="pbrangedw"  type="number" >
+                12
+            </Value>
+            <Value property="transpose"  type="number" >
+                24
+            </Value>
+            <Value property="partssplitnote"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc1semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc2osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc2semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc3osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc3semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc4osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc4semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc5osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc5semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc6osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc6semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc7osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc7semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc8osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc8semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc9osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc9semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc10osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc10semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc11osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc11semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc12osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc12semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc13osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc13semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc14osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc14semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc15osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc15semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="vc16osc1freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16osc2freqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16oscpwadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16filterfreqadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16filterresoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16filtermodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16filterattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16filterdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16filtersustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16filterreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16ampenvattackadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16ampenvdecayadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16ampenvsustainadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16ampenvreleaseadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16outputvolumeadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16spreadadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16presenceadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16portamentoadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16osc2detuneadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16modlfooffsetadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16modfreqdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16modpwdepthadjst_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16osc1scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16osc2scaleadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16fltfreqscalehadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16modlfooffsetadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16modfreqdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16modpwdepthadjst_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16osc2xmodadjst"  type="number" >
+                0.5
+            </Value>
+            <Value property="vc16semiadjst"  type="number" >
+                24
+            </Value>
+            <Value property="lfo1_step_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_3"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_4"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_5"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_6"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_7"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_8"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_9"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_17"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_18"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_19"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_20"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_21"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_22"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_23"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_24"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_25"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_26"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_27"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_28"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_29"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_30"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_31"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_32"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_33"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_34"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_35"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_36"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_37"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_38"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_39"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_40"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_41"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_42"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_43"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_44"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_45"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_46"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_47"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_48"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_49"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_50"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_51"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_52"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_53"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_54"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_55"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_56"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_57"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_58"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_59"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_60"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_61"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_62"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_63"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_64"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_65"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_66"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_67"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_68"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_69"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_70"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_71"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_72"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_73"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_74"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_75"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_76"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_77"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_78"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_79"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_80"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_81"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_82"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_83"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_84"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_85"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_86"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_87"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_88"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_89"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_90"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_91"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_92"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_93"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_94"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_95"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_96"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_97"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_98"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_99"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_100"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_101"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_102"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_103"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_104"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_105"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_106"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_107"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_108"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_109"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_110"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_111"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_112"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_113"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_114"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_115"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_116"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_117"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_118"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_119"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_120"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_121"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_122"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_123"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_124"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_125"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_126"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_127"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_step_128"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_3"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_4"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_5"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_6"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_7"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_8"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_9"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_17"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_18"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_19"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_20"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_21"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_22"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_23"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_24"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_25"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_26"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_27"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_28"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_29"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_30"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_31"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_32"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_33"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_34"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_35"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_36"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_37"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_38"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_39"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_40"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_41"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_42"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_43"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_44"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_45"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_46"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_47"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_48"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_49"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_50"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_51"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_52"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_53"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_54"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_55"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_56"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_57"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_58"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_59"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_60"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_61"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_62"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_63"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_64"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_65"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_66"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_67"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_68"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_69"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_70"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_71"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_72"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_73"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_74"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_75"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_76"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_77"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_78"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_79"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_80"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_81"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_82"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_83"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_84"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_85"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_86"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_87"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_88"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_89"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_90"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_91"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_92"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_93"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_94"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_95"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_96"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_97"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_98"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_99"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_100"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_101"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_102"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_103"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_104"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_105"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_106"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_107"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_108"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_109"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_110"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_111"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_112"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_113"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_114"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_115"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_116"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_117"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_118"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_119"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_120"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_121"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_122"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_123"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_124"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_125"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_126"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_127"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2_step_128"  type="number" >
+                0.5
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

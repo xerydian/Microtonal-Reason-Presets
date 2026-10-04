@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Korg MonoPoly
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="jp.co.korg.MonoPoly"  deviceVersion="1.0.4" >
+        <Object name="custom_properties" >
+            <Value property="KEY_ASSIGN_HOLD"  type="number" >
+                0
+            </Value>
+            <Value property="KEY_ASSIGN_MODE"  type="number" >
+                0
+            </Value>
+            <Value property="VOICES_UNISON"  type="number" >
+                0
+            </Value>
+            <Value property="VOICES_TOTAL"  type="number" >
+                23
+            </Value>
+            <Value property="VOICES_UNISON_DETUNE"  type="number" >
+                0.25
+            </Value>
+            <Value property="VOICES_UNISON_SPREAD"  type="number" >
+                0.5
+            </Value>
+            <Value property="VOICES_ANALOG"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="VOICES_TRIGGER_MODE"  type="number" >
+                0
+            </Value>
+            <Value property="VCO_1_WAVE_FORM"  type="number" >
+                1
+            </Value>
+            <Value property="VCO_1_SEMITONE"  type="number" >
+                24
+            </Value>
+            <Value property="VCO_1_LEVEL"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="VCO_2_TUNE"  type="number" >
+                0.5
+            </Value>
+            <Value property="VCO_2_WAVE_FORM"  type="number" >
+                1
+            </Value>
+            <Value property="VCO_2_SEMITONE"  type="number" >
+                24
+            </Value>
+            <Value property="VCO_2_LEVEL"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="VCO_3_TUNE"  type="number" >
+                0.5
+            </Value>
+            <Value property="VCO_3_WAVE_FORM"  type="number" >
+                1
+            </Value>
+            <Value property="VCO_3_SEMITONE"  type="number" >
+                24
+            </Value>
+            <Value property="VCO_3_LEVEL"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="VCO_4_TUNE"  type="number" >
+                0.5
+            </Value>
+            <Value property="VCO_4_WAVE_FORM"  type="number" >
+                1
+            </Value>
+            <Value property="VCO_4_SEMITONE"  type="number" >
+                24
+            </Value>
+            <Value property="VCO_4_LEVEL"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="VCF_CUTOFF"  type="number" >
+                1
+            </Value>
+            <Value property="VCF_RESONANCE"  type="number" >
+                0
+            </Value>
+            <Value property="VCF_EG_INTENSITY"  type="number" >
+                0.5
+            </Value>
+            <Value property="VCF_KBD_TRACK"  type="number" >
+                0.21110310818215308
+            </Value>
+            <Value property="MG_1_KEY_SYNC"  type="number" >
+                0
+            </Value>
+            <Value property="MG_1_TEMPO_SYNC"  type="number" >
+                0
+            </Value>
+            <Value property="MG_1_BASE_NOTE"  type="number" >
+                7
+            </Value>
+            <Value property="MG_1_FREQUENCY"  type="number" >
+                0.25
+            </Value>
+            <Value property="MG_1_TIMES"  type="number" >
+                0
+            </Value>
+            <Value property="MG_1_WAVEFORM"  type="number" >
+                0
+            </Value>
+            <Value property="MG_2_KEY_SYNC"  type="number" >
+                0
+            </Value>
+            <Value property="MG_2_TEMPO_SYNC"  type="number" >
+                0
+            </Value>
+            <Value property="MG_2_BASE_NOTE"  type="number" >
+                7
+            </Value>
+            <Value property="MG_2_FREQUENCY"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="MG_2_TIMES"  type="number" >
+                0
+            </Value>
+            <Value property="MG_2_WAVEFORM"  type="number" >
+                0
+            </Value>
+            <Value property="VCF_EG_ATTACK"  type="number" >
+                0
+            </Value>
+            <Value property="VCF_EG_DECAY"  type="number" >
+                0.5
+            </Value>
+            <Value property="VCF_EG_SUSTAIN"  type="number" >
+                0
+            </Value>
+            <Value property="VCF_EG_RELEASE"  type="number" >
+                0
+            </Value>
+            <Value property="VCA_EG_ATTACK"  type="number" >
+                0
+            </Value>
+            <Value property="VCA_EG_DECAY"  type="number" >
+                0.5
+            </Value>
+            <Value property="VCA_EG_SUSTAIN"  type="number" >
+                1
+            </Value>
+            <Value property="VCA_EG_RELEASE"  type="number" >
+                0
+            </Value>
+            <Value property="OUTPUT_PAN"  type="number" >
+                0.5
+            </Value>
+            <Value property="OUTPUT_VOLUME"  type="number" >
+                0.5
+            </Value>
+            <Value property="ARPEGGIO"  type="number" >
+                0
+            </Value>
+            <Value property="ARP_RANGE"  type="number" >
+                0
+            </Value>
+            <Value property="ARP_MODE"  type="number" >
+                2
+            </Value>
+            <Value property="ARP_LATCH"  type="number" >
+                0
+            </Value>
+            <Value property="PWM_SRC_BIPOLAR"  type="number" >
+                1
+            </Value>
+            <Value property="PWM_SOURCE"  type="number" >
+                1
+            </Value>
+            <Value property="PWM_INTENSITY"  type="number" >
+                0.5
+            </Value>
+            <Value property="VCO_MOD_XMOD_INTENSITY"  type="number" >
+                0
+            </Value>
+            <Value property="VCO_MOD_FREQ_MOD_INT"  type="number" >
+                0
+            </Value>
+            <Value property="VCO_MOD_FREQ_MOD_BIPOLAR"  type="number" >
+                1
+            </Value>
+            <Value property="VCO_MOD_FREQ_MOD_SOURCE"  type="number" >
+                0
+            </Value>
+            <Value property="VCO_MODULATION"  type="number" >
+                0
+            </Value>
+            <Value property="VCO_MOD_TYPE"  type="number" >
+                2
+            </Value>
+            <Value property="VCO_MOD_MODE"  type="number" >
+                1
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_1"  type="number" >
+                4
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_1"  type="number" >
+                1
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_1"  type="number" >
+                0.2555395496976395
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_2"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_2"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_3"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_3"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_3"  type="number" >
+                0.5
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_4"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_4"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_4"  type="number" >
+                0.5
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_5"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_5"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_5"  type="number" >
+                0.5
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_6"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_6"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_6"  type="number" >
+                0.5
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_7"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_7"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_7"  type="number" >
+                0.5
+            </Value>
+            <Value property="VIRTUAL_PATCH_SOURCE_8"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_DESTINATION_8"  type="number" >
+                0
+            </Value>
+            <Value property="VIRTUAL_PATCH_INTENSITY_8"  type="number" >
+                0.5
+            </Value>
+            <Value property="NOISE"  type="number" >
+                0
+            </Value>
+            <Value property="PORTAMENTO"  type="number" >
+                0
+            </Value>
+            <Value property="DETUNE"  type="number" >
+                0
+            </Value>
+            <Value property="PW_WIDTH"  type="number" >
+                0.5
+            </Value>
+            <Value property="PITCH_BEND_RANGE"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="TRANSPOSE"  type="number" >
+                24
+            </Value>
+            <Value property="MASTER_TUNE"  type="number" >
+                0.5
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

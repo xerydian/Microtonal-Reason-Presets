@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Noxious Additive Synthesizer
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="fr.zvork.Noxious"  deviceVersion="1.6" >
+        <Object name="custom_properties" >
+            <Value property="filter1_type"  type="number" >
+                2
+            </Value>
+            <Value property="filter1_cutoff"  type="number" >
+                1
+            </Value>
+            <Value property="filter1_resonance"  type="number" >
+                0
+            </Value>
+            <Value property="filter1_osc1"  type="boolean" >
+                false
+            </Value>
+            <Value property="filter2_type"  type="number" >
+                2
+            </Value>
+            <Value property="filter2_cutoff"  type="number" >
+                1
+            </Value>
+            <Value property="filter2_resonance"  type="number" >
+                0
+            </Value>
+            <Value property="filter2_osc1"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo1_key_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo1_tempo_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo1_rate"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="lfo1_rate_synced"  type="number" >
+                9
+            </Value>
+            <Value property="lfo1_shape"  type="number" >
+                0
+            </Value>
+            <Value property="lfo1_delay"  type="number" >
+                0
+            </Value>
+            <Value property="lfo2_key_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="lfo2_tempo_sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="lfo2_rate"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="lfo2_rate_synced"  type="number" >
+                9
+            </Value>
+            <Value property="lfo2_shape"  type="number" >
+                0
+            </Value>
+            <Value property="lfo2_delay"  type="number" >
+                0
+            </Value>
+            <Value property="mod_env1_start_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="mod_env1_attack_time"  type="number" >
+                0
+            </Value>
+            <Value property="mod_env1_attack_level"  type="number" >
+                1
+            </Value>
+            <Value property="mod_env1_decay_time"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="mod_env1_sustain_level"  type="number" >
+                0.75
+            </Value>
+            <Value property="mod_env1_release_time"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="mod_env1_release_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="mod_env2_start_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="mod_env2_attack_time"  type="number" >
+                0
+            </Value>
+            <Value property="mod_env2_attack_level"  type="number" >
+                1
+            </Value>
+            <Value property="mod_env2_decay_time"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="mod_env2_sustain_level"  type="number" >
+                0.75
+            </Value>
+            <Value property="mod_env2_release_time"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="mod_env2_release_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier1_on"  type="boolean" >
+                false
+            </Value>
+            <Value property="osc1_modifier1_center"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier1_spread"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="osc1_modifier1_falloff"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier1_type"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier1_param1"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier1_param2"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier2_on"  type="boolean" >
+                false
+            </Value>
+            <Value property="osc1_modifier2_center"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier2_spread"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="osc1_modifier2_falloff"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier2_type"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier2_param1"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier2_param2"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier3_on"  type="boolean" >
+                false
+            </Value>
+            <Value property="osc1_modifier3_center"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier3_spread"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="osc1_modifier3_falloff"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier3_type"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier3_param1"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier3_param2"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier4_on"  type="boolean" >
+                false
+            </Value>
+            <Value property="osc1_modifier4_center"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier4_spread"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="osc1_modifier4_falloff"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier4_type"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier4_param1"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier4_param2"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier5_on"  type="boolean" >
+                false
+            </Value>
+            <Value property="osc1_modifier5_center"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier5_spread"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="osc1_modifier5_falloff"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier5_type"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_modifier5_param1"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_modifier5_param2"  type="number" >
+                0.5
+            </Value>
+            <Value property="modulation1_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation2_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation3_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation4_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation5_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation6_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation7_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation8_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation9_strength"  type="number" >
+                0.5
+            </Value>
+            <Value property="modulation10_strength"  type="number" >
+                0.5
+            </Value>
+            <Value property="modulation11_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation12_strength"  type="number" >
+                0.5657689173978566
+            </Value>
+            <Value property="modulation13_strength"  type="number" >
+                0.5657689173978566
+            </Value>
+            <Value property="modulation14_strength"  type="number" >
+                0.2630756695914265
+            </Value>
+            <Value property="modulation15_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation16_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation17_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation18_strength"  type="number" >
+                0.75
+            </Value>
+            <Value property="modulation19_strength"  type="number" >
+                1
+            </Value>
+            <Value property="modulation20_strength"  type="number" >
+                1
+            </Value>
+            <Value property="modulation21_strength"  type="number" >
+                1
+            </Value>
+            <Value property="modulation22_strength"  type="number" >
+                1
+            </Value>
+            <Value property="modulation23_strength"  type="number" >
+                1
+            </Value>
+            <Value property="osc1_pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_semi"  type="number" >
+                48
+            </Value>
+            <Value property="osc1_fine"  type="number" >
+                50
+            </Value>
+            <Value property="wave1_base_wavetype"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_width"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_waveform_variation"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_amp_env_attack_time"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_amp_env_decay_time"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="osc1_amp_env_sustain_level"  type="number" >
+                1
+            </Value>
+            <Value property="osc1_amp_env_release_time"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="volume"  type="number" >
+                0.5
+            </Value>
+            <Value property="quality"  type="number" >
+                1
+            </Value>
+            <Value property="modulation1_source"  type="number" >
+                0
+            </Value>
+            <Value property="modulation2_source"  type="number" >
+                1
+            </Value>
+            <Value property="modulation3_source"  type="number" >
+                2
+            </Value>
+            <Value property="modulation4_source"  type="number" >
+                3
+            </Value>
+            <Value property="modulation5_source"  type="number" >
+                4
+            </Value>
+            <Value property="modulation6_source"  type="number" >
+                5
+            </Value>
+            <Value property="modulation7_source"  type="number" >
+                6
+            </Value>
+            <Value property="modulation8_source"  type="number" >
+                7
+            </Value>
+            <Value property="modulation1_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation2_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation3_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation4_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation5_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation6_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation7_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation8_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation15_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation16_destination"  type="number" >
+                0
+            </Value>
+            <Value property="modulation17_destination"  type="number" >
+                11
+            </Value>
+            <Value property="modulation18_destination"  type="number" >
+                0
+            </Value>
+            <Value property="retrigger_mode"  type="number" >
+                0
+            </Value>
+            <Value property="portamento"  type="number" >
+                0
+            </Value>
+            <Value property="polyphony"  type="number" >
+                9
+            </Value>
+            <Value property="pitch_bend_amplitude"  type="number" >
+                3
+            </Value>
+            <Value property="precision"  type="number" >
+                1
+            </Value>
+            <Value property="filter_mode"  type="number" >
+                0
+            </Value>
+            <Value property="filter_mix"  type="number" >
+                0.5
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

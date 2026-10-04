@@ -1,0 +1,608 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.blamsoft.VK2"  deviceVersion="1.0.7" >
+    <DeviceNameInEnglish>
+        VK-2 Viking Synthesizer
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="amp_control_mod_1_amount"  type="number" >
+                1
+            </Value>
+            <Value property="amp_control_mod_1_selection"  type="number" >
+                43
+            </Value>
+            <Value property="amp_control_mod_2_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="amp_control_mod_2_selection"  type="number" >
+                0
+            </Value>
+            <Value property="amp_drive"  type="number" >
+                0
+            </Value>
+            <Value property="amp_level_db"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="amp_level_mode"  type="number" >
+                0
+            </Value>
+            <Value property="amp_pan_mod_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="amp_pan_mod_selection"  type="number" >
+                0
+            </Value>
+            <Value property="amp_signal_mod_selection"  type="number" >
+                24
+            </Value>
+            <Value property="fx_chorus_delay"  type="number" >
+                0.3333332538604736328125
+            </Value>
+            <Value property="fx_chorus_depth"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="fx_chorus_enable"  type="number" >
+                0
+            </Value>
+            <Value property="fx_chorus_feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_chorus_mix"  type="number" >
+                0.25
+            </Value>
+            <Value property="fx_chorus_rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_delay_drive"  type="number" >
+                0
+            </Value>
+            <Value property="fx_delay_enable"  type="number" >
+                0
+            </Value>
+            <Value property="fx_delay_feedback"  type="number" >
+                0.410526275634765625
+            </Value>
+            <Value property="fx_delay_mix"  type="number" >
+                0.25
+            </Value>
+            <Value property="fx_delay_mode"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_delay_mod_amount"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="fx_delay_mod_rate"  type="number" >
+                0.2156817913055419921875
+            </Value>
+            <Value property="fx_delay_time"  type="number" >
+                7
+            </Value>
+            <Value property="fx_delay_tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_distortion_drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_distortion_enable"  type="number" >
+                0
+            </Value>
+            <Value property="fx_distortion_high_cut"  type="number" >
+                1
+            </Value>
+            <Value property="fx_distortion_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_distortion_low_cut"  type="number" >
+                0
+            </Value>
+            <Value property="fx_distortion_mix"  type="number" >
+                1
+            </Value>
+            <Value property="fx_distortion_type"  type="number" >
+                0
+            </Value>
+            <Value property="env1_attack"  type="number" >
+                0
+            </Value>
+            <Value property="env1_attack_synced"  type="number" >
+                8
+            </Value>
+            <Value property="env1_curve"  type="number" >
+                1
+            </Value>
+            <Value property="env1_decay"  type="number" >
+                0.4401340484619140625
+            </Value>
+            <Value property="env1_decay_synced"  type="number" >
+                8
+            </Value>
+            <Value property="env1_mode_selection"  type="number" >
+                0
+            </Value>
+            <Value property="env1_release"  type="number" >
+                0.4401340484619140625
+            </Value>
+            <Value property="env1_release_synced"  type="number" >
+                8
+            </Value>
+            <Value property="env1_sustain"  type="number" >
+                0.75
+            </Value>
+            <Value property="env1_velocity_sensitivity"  type="number" >
+                0
+            </Value>
+            <Value property="env2_attack"  type="number" >
+                0
+            </Value>
+            <Value property="env2_attack_synced"  type="number" >
+                8
+            </Value>
+            <Value property="env2_curve"  type="number" >
+                1
+            </Value>
+            <Value property="env2_decay"  type="number" >
+                0.4401340484619140625
+            </Value>
+            <Value property="env2_decay_synced"  type="number" >
+                8
+            </Value>
+            <Value property="env2_mode_selection"  type="number" >
+                0
+            </Value>
+            <Value property="env2_release"  type="number" >
+                0.4401340484619140625
+            </Value>
+            <Value property="env2_release_synced"  type="number" >
+                8
+            </Value>
+            <Value property="env2_sustain"  type="number" >
+                0.75
+            </Value>
+            <Value property="env2_velocity_sensitivity"  type="number" >
+                0
+            </Value>
+            <Value property="filters_algorithm"  type="number" >
+                0
+            </Value>
+            <Value property="filters_bandwidth"  type="number" >
+                0.5
+            </Value>
+            <Value property="filters_crossfade"  type="number" >
+                0.5
+            </Value>
+            <Value property="filters_frequency"  type="number" >
+                0.75
+            </Value>
+            <Value property="filters_frequency_mod_1_amount"  type="number" >
+                0.75
+            </Value>
+            <Value property="filters_frequency_mod_1_selection"  type="number" >
+                42
+            </Value>
+            <Value property="filters_frequency_mod_2_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="filters_frequency_mod_2_selection"  type="number" >
+                0
+            </Value>
+            <Value property="filters_frequency_mod_3_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="filters_frequency_mod_3_selection"  type="number" >
+                0
+            </Value>
+            <Value property="filters_hp_poles"  type="number" >
+                0
+            </Value>
+            <Value property="filters_lp_poles"  type="number" >
+                3
+            </Value>
+            <Value property="filters_mode"  type="number" >
+                0
+            </Value>
+            <Value property="filters_resonance"  type="number" >
+                0
+            </Value>
+            <Value property="filters_signal_mod_selection"  type="number" >
+                23
+            </Value>
+            <Value property="filters_spacing"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1_mode"  type="number" >
+                0
+            </Value>
+            <Value property="lfo1_rate"  type="number" >
+                0.5799999237060546875
+            </Value>
+            <Value property="lfo1_sync_time"  type="number" >
+                14
+            </Value>
+            <Value property="lfo2_mode"  type="number" >
+                0
+            </Value>
+            <Value property="lfo2_rate"  type="number" >
+                0.5799999237060546875
+            </Value>
+            <Value property="lfo2_sync_time"  type="number" >
+                14
+            </Value>
+            <Value property="mix1_amount"  type="number" >
+                0.75
+            </Value>
+            <Value property="mix1_selection"  type="number" >
+                10
+            </Value>
+            <Value property="mix2_amount"  type="number" >
+                0
+            </Value>
+            <Value property="mix2_selection"  type="number" >
+                15
+            </Value>
+            <Value property="mix3_amount"  type="number" >
+                0
+            </Value>
+            <Value property="mix3_selection"  type="number" >
+                20
+            </Value>
+            <Value property="mix4_amount"  type="number" >
+                0
+            </Value>
+            <Value property="mix4_selection"  type="number" >
+                27
+            </Value>
+            <Value property="mixer_drive"  type="number" >
+                0
+            </Value>
+            <Value property="modbus1_scale_amount"  type="number" >
+                1
+            </Value>
+            <Value property="modbus1_scale_selection"  type="number" >
+                4
+            </Value>
+            <Value property="modbus1_source_selection"  type="number" >
+                29
+            </Value>
+            <Value property="modbus2_scale_amount"  type="number" >
+                1
+            </Value>
+            <Value property="modbus2_scale_selection"  type="number" >
+                0
+            </Value>
+            <Value property="modbus2_source_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_semi"  type="number" >
+                7
+            </Value>
+            <Value property="osc1_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_frequency_mod_1_amount"  type="number" >
+                0.6936834554722234
+            </Value>
+            <Value property="osc1_frequency_mod_1_selection"  type="number" >
+                1
+            </Value>
+            <Value property="osc1_frequency_mod_2_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_frequency_mod_2_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_linear_fm_mod_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_linear_fm_mod_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_low_octave"  type="number" >
+                3
+            </Value>
+            <Value property="osc1_low_semitones"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_range"  type="number" >
+                4
+            </Value>
+            <Value property="osc1_shape"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_shape_mod_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_shape_mod_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_sync_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1_sync_time"  type="number" >
+                14
+            </Value>
+            <Value property="osc2_semi"  type="number" >
+                7
+            </Value>
+            <Value property="osc2_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_frequency_mod_1_amount"  type="number" >
+                0.6936834554722234
+            </Value>
+            <Value property="osc2_frequency_mod_1_selection"  type="number" >
+                1
+            </Value>
+            <Value property="osc2_frequency_mod_2_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_frequency_mod_2_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc2_hard_sync"  type="number" >
+                0
+            </Value>
+            <Value property="osc2_linear_fm_mod_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_linear_fm_mod_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc2_low_octave"  type="number" >
+                3
+            </Value>
+            <Value property="osc2_low_semitones"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_range"  type="number" >
+                4
+            </Value>
+            <Value property="osc2_shape"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_shape_mod_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_shape_mod_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc2_sync_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_sync_time"  type="number" >
+                14
+            </Value>
+            <Value property="osc3_semi"  type="number" >
+                7
+            </Value>
+            <Value property="osc3_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_frequency_mod_1_amount"  type="number" >
+                0.6936834554722234
+            </Value>
+            <Value property="osc3_frequency_mod_1_selection"  type="number" >
+                1
+            </Value>
+            <Value property="osc3_frequency_mod_2_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_frequency_mod_2_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc3_hard_sync"  type="number" >
+                0
+            </Value>
+            <Value property="osc3_linear_fm_mod_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_linear_fm_mod_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc3_low_octave"  type="number" >
+                3
+            </Value>
+            <Value property="osc3_low_semitones"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_range"  type="number" >
+                4
+            </Value>
+            <Value property="osc3_shape"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_shape_mod_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_shape_mod_selection"  type="number" >
+                0
+            </Value>
+            <Value property="osc3_sync_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_sync_time"  type="number" >
+                14
+            </Value>
+            <Value property="bend_range"  type="number" >
+                2
+            </Value>
+            <Value property="keyboard_mode"  type="number" >
+                0
+            </Value>
+            <Value property="pitch_mod_amount"  type="number" >
+                0.57499980926513671875
+            </Value>
+            <Value property="pitch_mod_selection"  type="number" >
+                44
+            </Value>
+            <Value property="polyphony"  type="number" >
+                0
+            </Value>
+            <Value property="fx_phaser_enable"  type="number" >
+                0
+            </Value>
+            <Value property="fx_phaser_feedback"  type="number" >
+                0.5102040767669677734375
+            </Value>
+            <Value property="fx_phaser_frequency"  type="number" >
+                0.25
+            </Value>
+            <Value property="fx_phaser_mix"  type="number" >
+                1
+            </Value>
+            <Value property="fx_phaser_mod_amount"  type="number" >
+                0.75
+            </Value>
+            <Value property="fx_phaser_rate"  type="number" >
+                7
+            </Value>
+            <Value property="fx_phaser_width"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_phaser_notches"  type="number" >
+                2
+            </Value>
+            <Value property="fx_phaser_offset"  type="number" >
+                0.25
+            </Value>
+            <Value property="fx_reverb_damping"  type="number" >
+                0.5161998271942138671875
+            </Value>
+            <Value property="fx_reverb_enable"  type="number" >
+                0
+            </Value>
+            <Value property="fx_reverb_delay"  type="number" >
+                0.0799999237060546875
+            </Value>
+            <Value property="fx_reverb_low_time"  type="number" >
+                0.5974938869476318359375
+            </Value>
+            <Value property="fx_reverb_crossover"  type="number" >
+                0.8809387683868408203125
+            </Value>
+            <Value property="fx_reverb_mid_time"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_reverb_mix"  type="number" >
+                0.25
+            </Value>
+            <Value property="fx_reverb_mod_amount"  type="number" >
+                0.3799998760223388671875
+            </Value>
+            <Value property="fx_reverb_mod_rate"  type="number" >
+                0.4405977725982666015625
+            </Value>
+            <Value property="glide_amount"  type="number" >
+                0
+            </Value>
+            <Value property="unison_density"  type="number" >
+                0
+            </Value>
+            <Value property="unison_detune"  type="number" >
+                0.25
+            </Value>
+            <Value property="unison_spread"  type="number" >
+                0.5
+            </Value>
+            <Value property="panel_selection"  type="number" >
+                0
+            </Value>
+            <Value property="fx_chorus_slot"  type="number" >
+                0
+            </Value>
+            <Value property="fx_phaser_slot"  type="number" >
+                1
+            </Value>
+            <Value property="fx_distortion_slot"  type="number" >
+                2
+            </Value>
+            <Value property="fx_delay_slot"  type="number" >
+                3
+            </Value>
+            <Value property="fx_reverb_slot"  type="number" >
+                4
+            </Value>
+            <Value property="audio_in_osc1_frequency_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc1_linear_fm_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc1_shape_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc2_frequency_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc2_linear_fm_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc2_shape_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc3_frequency_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc3_linear_fm_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_osc3_shape_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_filter_frequency_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_filter_resonance_trim"  type="number" >
+                1
+            </Value>
+            <Value property="cv_in_amp_control_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_amp_control_trim"  type="number" >
+                1
+            </Value>
+            <Value property="audio_in_amp_pan_trim"  type="number" >
+                1
+            </Value>
+            <Value property="version"  type="number" >
+                0
+            </Value>
+            <Value property="osc1_tracking"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2_tracking"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc3_tracking"  type="number" >
+                0.5
+            </Value>
+            <Value property="drive_cpu"  type="number" >
+                0
+            </Value>
+            <Value property="osc_cpu"  type="number" >
+                1
+            </Value>
+            <Value property="osc_mode"  type="number" >
+                1
+            </Value>
+            <Value property="osc_jitter"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="osc_drift"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="filters_drive"  type="number" >
+                0.25
+            </Value>
+            <Value property="filters_compensation"  type="number" >
+                0.25
+            </Value>
+            <Value property="mixer_drive_mode"  type="number" >
+                0
+            </Value>
+            <Value property="amp_drive_mode"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

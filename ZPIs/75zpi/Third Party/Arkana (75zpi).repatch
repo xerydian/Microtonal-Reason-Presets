@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.quadelectra.Arkana"  deviceVersion="1.5" >
+    <DeviceNameInEnglish>
+        Arkana Granular Synth
+    </DeviceNameInEnglish>
+    <Samples>
+        <SampleReference trueName="CS_SAW_C1.aif"  userFriendlyName="CS_SAW_C1.aif"  type="sample" >
+            <ReFill name="Reason Factory Sound Bank"  url="www.reasonstudios.com" />
+            <DatabasePath>
+                <ReFillName>
+                    Reason Factory Sound Bank
+                </ReFillName>
+                <Path>
+                    /Reason Factory Sound Bank/NN19 Sampler Patches/Synth Raw Elements/Yamaha CS 80 Samples/CS_SAW_C1.aif
+                </Path>
+            </DatabasePath>
+            <AbsolutePath>
+                <Volume name=""  type="unknown" />
+                <Path partOfReFill="yes" >
+                    /Macintosh HD/Library/Application Support/Propellerhead Software/Soundbanks/Reason 13/Factory Sound Bank.rfl/NN19 Sampler Patches/Synth Raw Elements/Yamaha CS 80 Samples/CS_SAW_C1.aif
+                </Path>
+            </AbsolutePath>
+        </SampleReference>
+    </Samples>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="OscAEnable"  type="boolean" >
+                true
+            </Value>
+            <Value property="OscALen"  type="number" >
+                0
+            </Value>
+            <Value property="OscALenKbFollow"  type="number" >
+                0.5706693549313504
+            </Value>
+            <Value property="OscALenRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscALenStLink"  type="boolean" >
+                false
+            </Value>
+            <Value property="OscAPitch"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscAKbToPitch"  type="boolean" >
+                true
+            </Value>
+            <Value property="OscAPitchSpread"  type="number" >
+                0
+            </Value>
+            <Value property="OscAPitchRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscAPitchStLink"  type="boolean" >
+                false
+            </Value>
+            <Value property="OscASpeed"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscASpeedRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscAPan"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscAPanRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscAPanSpread"  type="number" >
+                0
+            </Value>
+            <Value property="OscAFrm"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscAFrmRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscAGain"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscAGainRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscAGrainEnvType"  type="number" >
+                0
+            </Value>
+            <Value property="OscAGrainCount"  type="number" >
+                0
+            </Value>
+            <Value property="OscAOffset"  type="number" >
+                0
+            </Value>
+            <Value property="OscAOffsetRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscAPos"  type="number" >
+                0
+            </Value>
+            <Value property="OscAPosSpread"  type="number" >
+                0
+            </Value>
+            <Value property="OscAPosRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscAFiltType"  type="number" >
+                0
+            </Value>
+            <Value property="OscACutoff"  type="number" >
+                1
+            </Value>
+            <Value property="OscAReso"  type="number" >
+                0
+            </Value>
+            <Value property="OscAFiltEnvAmt"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscAFVeloSens"  type="number" >
+                0
+            </Value>
+            <Value property="OscAFEnvAtk"  type="number" >
+                0
+            </Value>
+            <Value property="OscAFEnvDcy"  type="number" >
+                1
+            </Value>
+            <Value property="OscAFEnvSus"  type="number" >
+                1
+            </Value>
+            <Value property="OscAFEnvRel"  type="number" >
+                0.125
+            </Value>
+            <Value property="OscAAVeloSens"  type="number" >
+                0
+            </Value>
+            <Value property="OscAAEnvAtk"  type="number" >
+                0
+            </Value>
+            <Value property="OscAAEnvDcy"  type="number" >
+                1
+            </Value>
+            <Value property="OscAAEnvSus"  type="number" >
+                1
+            </Value>
+            <Value property="OscAAEnvRel"  type="number" >
+                0
+            </Value>
+            <Value property="OscBEnable"  type="boolean" >
+                true
+            </Value>
+            <Value property="OscBLen"  type="number" >
+                0
+            </Value>
+            <Value property="OscBLenKbFollow"  type="number" >
+                0.5706693549313504
+            </Value>
+            <Value property="OscBLenRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBLenStLink"  type="boolean" >
+                false
+            </Value>
+            <Value property="OscBPitch"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscBKbToPitch"  type="boolean" >
+                true
+            </Value>
+            <Value property="OscBPitchSpread"  type="number" >
+                0
+            </Value>
+            <Value property="OscBPitchRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBPitchStLink"  type="boolean" >
+                false
+            </Value>
+            <Value property="OscBSpeed"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscBSpeedRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBPan"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscBPanRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBPanSpread"  type="number" >
+                0
+            </Value>
+            <Value property="OscBFrm"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscBFrmRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBGain"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscBGainRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBGrainEnvType"  type="number" >
+                0
+            </Value>
+            <Value property="OscBGrainCount"  type="number" >
+                0
+            </Value>
+            <Value property="OscBOffset"  type="number" >
+                0
+            </Value>
+            <Value property="OscBOffsetRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBPos"  type="number" >
+                0
+            </Value>
+            <Value property="OscBPosSpread"  type="number" >
+                0
+            </Value>
+            <Value property="OscBPosRand"  type="number" >
+                0
+            </Value>
+            <Value property="OscBFiltType"  type="number" >
+                0
+            </Value>
+            <Value property="OscBCutoff"  type="number" >
+                1
+            </Value>
+            <Value property="OscBReso"  type="number" >
+                0
+            </Value>
+            <Value property="OscBFiltEnvAmt"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscBFVeloSens"  type="number" >
+                0
+            </Value>
+            <Value property="OscBFEnvAtk"  type="number" >
+                0
+            </Value>
+            <Value property="OscBFEnvDcy"  type="number" >
+                1
+            </Value>
+            <Value property="OscBFEnvSus"  type="number" >
+                1
+            </Value>
+            <Value property="OscBFEnvRel"  type="number" >
+                0.125
+            </Value>
+            <Value property="OscBAVeloSens"  type="number" >
+                0
+            </Value>
+            <Value property="OscBAEnvAtk"  type="number" >
+                0
+            </Value>
+            <Value property="OscBAEnvDcy"  type="number" >
+                1
+            </Value>
+            <Value property="OscBAEnvSus"  type="number" >
+                1
+            </Value>
+            <Value property="OscBAEnvRel"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot1Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="MtxSlot2Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="MtxSlot3Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="MtxSlot4Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="MtxSlot5Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="MtxSlot1ScaleAmt"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot2ScaleAmt"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot3ScaleAmt"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot4ScaleAmt"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot5ScaleAmt"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnvAtk"  type="number" >
+                0
+            </Value>
+            <Value property="NodEnvDcy"  type="number" >
+                0.5
+            </Value>
+            <Value property="ModEnvSus"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnvRel"  type="number" >
+                0.25
+            </Value>
+            <Value property="Lfo1Rate"  type="number" >
+                0.00199985504150390625
+            </Value>
+            <Value property="Lfo2Rate"  type="number" >
+                0.00199985504150390625
+            </Value>
+            <Value property="Lfo3Rate"  type="number" >
+                0.00199985504150390625
+            </Value>
+            <Value property="Lfo1RateSync"  type="number" >
+                9
+            </Value>
+            <Value property="Lfo2RateSync"  type="number" >
+                9
+            </Value>
+            <Value property="Lfo3RateSync"  type="number" >
+                9
+            </Value>
+            <Value property="Lfo1Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Lfo2Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Lfo3Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Lfo1Sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="Lfo2Sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="Lfo3Sync"  type="boolean" >
+                false
+            </Value>
+            <Value property="RevbTime"  type="number" >
+                0
+            </Value>
+            <Value property="RevbDamping"  type="number" >
+                0
+            </Value>
+            <Value property="RevbMix"  type="number" >
+                0
+            </Value>
+            <Value property="DlyTimeSync"  type="boolean" >
+                false
+            </Value>
+            <Value property="DlyTime"  type="number" >
+                0.125
+            </Value>
+            <Value property="DlySyncTime"  type="number" >
+                0
+            </Value>
+            <Value property="DlyFeedback"  type="number" >
+                0.3299999237060546875
+            </Value>
+            <Value property="DlyBalance"  type="number" >
+                0.5
+            </Value>
+            <Value property="DlyTone"  type="number" >
+                0.5
+            </Value>
+            <Value property="DlyMix"  type="number" >
+                0
+            </Value>
+            <Value property="Volume"  type="number" >
+                0.70699977874755859375
+            </Value>
+            <Value property="Polyphony"  type="number" >
+                15
+            </Value>
+            <Value property="NoteMode"  type="number" >
+                0
+            </Value>
+            <Value property="BendRange"  type="number" >
+                26
+            </Value>
+            <Value property="Glide"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot1Source"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot2Source"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot3Source"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot4Source"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot5Source"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot1Dest"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot2Dest"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot3Dest"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot4Dest"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot5Dest"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot1ScaleSrc"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot2ScaleSrc"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot3ScaleSrc"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot4ScaleSrc"  type="number" >
+                0
+            </Value>
+            <Value property="MtxSlot5ScaleSrc"  type="number" >
+                0
+            </Value>
+            <Value property="OscMix"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscATranspose"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscBTranspose"  type="number" >
+                0.5
+            </Value>
+            <Value property="Oversampling"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="device_host" >
+            <Value property="sample_context"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+        <Object name="user_samples/0" >
+            <Value property="item"  type="sample" >
+                0
+            </Value>
+        </Object>
+        <Object name="user_samples/1" >
+            <Value property="item"  type="sample" />
+        </Object>
+    </Properties>
+</JukeboxPatch>

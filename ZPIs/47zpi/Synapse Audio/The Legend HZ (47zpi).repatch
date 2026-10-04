@@ -1,0 +1,1448 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.synapseAudioSoftware.LegendHZ"  deviceVersion="1.1.1" >
+    <DeviceNameInEnglish>
+        The Legend HZ
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="controls_glide"  type="number" >
+                0
+            </Value>
+            <Value property="controls_modulation_mix"  type="number" >
+                0
+            </Value>
+            <Value property="controls_osc_modulation_sw"  type="number" >
+                0
+            </Value>
+            <Value property="controls_filter_modulation_sw"  type="number" >
+                0
+            </Value>
+            <Value property="tuning_coarse"  type="number" >
+                2
+            </Value>
+            <Value property="tuning_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_1_active"  type="number" >
+                1
+            </Value>
+            <Value property="osc_1_waveform"  type="number" >
+                3
+            </Value>
+            <Value property="osc_1_range"  type="number" >
+                2
+            </Value>
+            <Value property="osc_1_semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_1_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_2_active"  type="number" >
+                0
+            </Value>
+            <Value property="osc_2_waveform"  type="number" >
+                4
+            </Value>
+            <Value property="osc_2_range"  type="number" >
+                1
+            </Value>
+            <Value property="osc_2_semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_2_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_3_active"  type="number" >
+                0
+            </Value>
+            <Value property="osc_3_ktrk"  type="number" >
+                1
+            </Value>
+            <Value property="osc_3_waveform"  type="number" >
+                5
+            </Value>
+            <Value property="osc_3_range"  type="number" >
+                2
+            </Value>
+            <Value property="osc_3_semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_3_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_4_active"  type="number" >
+                0
+            </Value>
+            <Value property="osc_4_waveform"  type="number" >
+                3
+            </Value>
+            <Value property="osc_4_range"  type="number" >
+                2
+            </Value>
+            <Value property="osc_4_semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_4_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_5_active"  type="number" >
+                0
+            </Value>
+            <Value property="osc_5_waveform"  type="number" >
+                3
+            </Value>
+            <Value property="osc_5_range"  type="number" >
+                2
+            </Value>
+            <Value property="osc_5_semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_5_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_6_active"  type="number" >
+                0
+            </Value>
+            <Value property="osc_6_ktrk"  type="number" >
+                1
+            </Value>
+            <Value property="osc_6_waveform"  type="number" >
+                3
+            </Value>
+            <Value property="osc_6_range"  type="number" >
+                2
+            </Value>
+            <Value property="osc_6_semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc_6_fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="mixer_osc_1"  type="number" >
+                0.504199981689453125
+            </Value>
+            <Value property="mixer_osc_2"  type="number" >
+                0.5035998821258544921875
+            </Value>
+            <Value property="mixer_osc_3"  type="number" >
+                0.505899906158447265625
+            </Value>
+            <Value property="mixer_osc_4"  type="number" >
+                0.5020999908447265625
+            </Value>
+            <Value property="mixer_osc_5"  type="number" >
+                0.5035998821258544921875
+            </Value>
+            <Value property="mixer_osc_6"  type="number" >
+                0.5034999847412109375
+            </Value>
+            <Value property="mixer_noise"  type="number" >
+                0
+            </Value>
+            <Value property="mixer_noise_type_sw"  type="number" >
+                1
+            </Value>
+            <Value property="mixer_drive"  type="number" >
+                0
+            </Value>
+            <Value property="mixer_feedback"  type="number" >
+                0
+            </Value>
+            <Value property="filter_type"  type="number" >
+                1
+            </Value>
+            <Value property="filter_type_lpbp"  type="number" >
+                0
+            </Value>
+            <Value property="filter_keytrack_1"  type="number" >
+                0
+            </Value>
+            <Value property="filter_keytrack_2"  type="number" >
+                0
+            </Value>
+            <Value property="filter_cutoff"  type="number" >
+                0.505799770355224609375
+            </Value>
+            <Value property="filter_resonance"  type="number" >
+                0
+            </Value>
+            <Value property="filter_env_amount"  type="number" >
+                0.5011999607086181640625
+            </Value>
+            <Value property="filter_env_attack"  type="number" >
+                0
+            </Value>
+            <Value property="filter_env_decay"  type="number" >
+                0.316899776458740234375
+            </Value>
+            <Value property="filter_env_sustain"  type="number" >
+                0.208099842071533203125
+            </Value>
+            <Value property="filter_env_release"  type="number" >
+                0.2068998813629150390625
+            </Value>
+            <Value property="amplifier_env_attack"  type="number" >
+                0
+            </Value>
+            <Value property="amplifier_env_decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="amplifier_env_sustain"  type="number" >
+                1
+            </Value>
+            <Value property="amplifier_env_release"  type="number" >
+                0.2099997997283935546875
+            </Value>
+            <Value property="volume"  type="number" >
+                0.5
+            </Value>
+            <Value property="polyphony"  type="number" >
+                4
+            </Value>
+            <Value property="unison_spread"  type="number" >
+                0
+            </Value>
+            <Value property="unison_detune"  type="number" >
+                0.2021999359130859375
+            </Value>
+            <Value property="unison_mode"  type="number" >
+                0
+            </Value>
+            <Value property="fxactive"  type="number" >
+                1
+            </Value>
+            <Value property="mmamount1"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount2"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount3"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount4"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount5"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount6"  type="number" >
+                0.44928933598589715
+            </Value>
+            <Value property="mmamount7"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount8"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount9"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount10"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount11"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmamount12"  type="number" >
+                0.5
+            </Value>
+            <Value property="mmmute1"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute2"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute3"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute4"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute5"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute6"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute7"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute8"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute9"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute10"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute11"  type="number" >
+                0
+            </Value>
+            <Value property="mmmute12"  type="number" >
+                0
+            </Value>
+            <Value property="arpactive"  type="number" >
+                0
+            </Value>
+            <Value property="arpoctave"  type="number" >
+                0
+            </Value>
+            <Value property="arpsync"  type="number" >
+                1
+            </Value>
+            <Value property="arprate"  type="number" >
+                10
+            </Value>
+            <Value property="arplength"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpswing"  type="number" >
+                0
+            </Value>
+            <Value property="arpslide"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvsynca"  type="number" >
+                1
+            </Value>
+            <Value property="graphenvsyncb"  type="number" >
+                1
+            </Value>
+            <Value property="graphenvsyncc"  type="number" >
+                1
+            </Value>
+            <Value property="graphenvsyncd"  type="number" >
+                1
+            </Value>
+            <Value property="graphenvratea"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvratea_sync"  type="number" >
+                13
+            </Value>
+            <Value property="graphenvrateb"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvrateb_sync"  type="number" >
+                13
+            </Value>
+            <Value property="graphenvratec"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvratec_sync"  type="number" >
+                13
+            </Value>
+            <Value property="graphenvrated"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvrated_sync"  type="number" >
+                13
+            </Value>
+            <Value property="modwheel"  type="number" >
+                0
+            </Value>
+            <Value property="osc_view"  type="number" >
+                0
+            </Value>
+            <Value property="bt_view"  type="number" >
+                0
+            </Value>
+            <Value property="bt_view_mm"  type="number" >
+                0
+            </Value>
+            <Value property="bt_view_arpseq"  type="number" >
+                2
+            </Value>
+            <Value property="mseg_data_a"  type="string" />
+            <Value property="mseg_data_b"  type="string" />
+            <Value property="mseg_data_c"  type="string" />
+            <Value property="mseg_data_d"  type="string" />
+            <Value property="graphenvview"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvmodea"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvmodeb"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvmodec"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvmoded"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvlengtha"  type="number" >
+                5
+            </Value>
+            <Value property="graphenvlengthb"  type="number" >
+                3
+            </Value>
+            <Value property="graphenvlengthc"  type="number" >
+                3
+            </Value>
+            <Value property="graphenvlengthd"  type="number" >
+                3
+            </Value>
+            <Value property="graphenvvela"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvvelb"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvvelc"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvveld"  type="number" >
+                0.5
+            </Value>
+            <Value property="graphenvktrka"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvktrkb"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvktrkc"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvktrkd"  type="number" >
+                0
+            </Value>
+            <Value property="graphenvnamea"  type="string" />
+            <Value property="graphenvnameb"  type="string" />
+            <Value property="graphenvnamec"  type="string" />
+            <Value property="graphenvnamed"  type="string" />
+            <Value property="mmsource1"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination1"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource2"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination2"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource3"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination3"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource4"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination4"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource5"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination5"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource6"  type="number" >
+                28
+            </Value>
+            <Value property="mmdestination6"  type="number" >
+                18
+            </Value>
+            <Value property="mmsource7"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination7"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource8"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination8"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource9"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination9"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource10"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination10"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource11"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination11"  type="number" >
+                0
+            </Value>
+            <Value property="mmsource12"  type="number" >
+                0
+            </Value>
+            <Value property="mmdestination12"  type="number" >
+                0
+            </Value>
+            <Value property="arpnote01"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote02"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote03"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote04"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote05"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote06"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote07"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote08"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote09"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote10"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote11"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote12"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote13"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote14"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote15"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote16"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote17"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote18"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote19"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote20"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote21"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote22"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote23"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote24"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote25"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote26"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote27"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote28"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote29"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote30"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote31"  type="number" >
+                37
+            </Value>
+            <Value property="arpnote32"  type="number" >
+                37
+            </Value>
+            <Value property="arpvel01"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel02"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel03"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel04"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel05"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel06"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel07"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel08"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel09"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel10"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel11"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel12"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel13"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel14"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel15"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel16"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel17"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel18"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel19"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel20"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel21"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel22"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel23"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel24"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel25"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel26"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel27"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel28"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel29"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel30"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel31"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arpvel32"  type="number" >
+                0.78999996185302734375
+            </Value>
+            <Value property="arptie01"  type="number" >
+                0
+            </Value>
+            <Value property="arptie02"  type="number" >
+                0
+            </Value>
+            <Value property="arptie03"  type="number" >
+                0
+            </Value>
+            <Value property="arptie04"  type="number" >
+                0
+            </Value>
+            <Value property="arptie05"  type="number" >
+                0
+            </Value>
+            <Value property="arptie06"  type="number" >
+                0
+            </Value>
+            <Value property="arptie07"  type="number" >
+                0
+            </Value>
+            <Value property="arptie08"  type="number" >
+                0
+            </Value>
+            <Value property="arptie09"  type="number" >
+                0
+            </Value>
+            <Value property="arptie10"  type="number" >
+                0
+            </Value>
+            <Value property="arptie11"  type="number" >
+                0
+            </Value>
+            <Value property="arptie12"  type="number" >
+                0
+            </Value>
+            <Value property="arptie13"  type="number" >
+                0
+            </Value>
+            <Value property="arptie14"  type="number" >
+                0
+            </Value>
+            <Value property="arptie15"  type="number" >
+                0
+            </Value>
+            <Value property="arptie16"  type="number" >
+                0
+            </Value>
+            <Value property="arptie17"  type="number" >
+                0
+            </Value>
+            <Value property="arptie18"  type="number" >
+                0
+            </Value>
+            <Value property="arptie19"  type="number" >
+                0
+            </Value>
+            <Value property="arptie20"  type="number" >
+                0
+            </Value>
+            <Value property="arptie21"  type="number" >
+                0
+            </Value>
+            <Value property="arptie22"  type="number" >
+                0
+            </Value>
+            <Value property="arptie23"  type="number" >
+                0
+            </Value>
+            <Value property="arptie24"  type="number" >
+                0
+            </Value>
+            <Value property="arptie25"  type="number" >
+                0
+            </Value>
+            <Value property="arptie26"  type="number" >
+                0
+            </Value>
+            <Value property="arptie27"  type="number" >
+                0
+            </Value>
+            <Value property="arptie28"  type="number" >
+                0
+            </Value>
+            <Value property="arptie29"  type="number" >
+                0
+            </Value>
+            <Value property="arptie30"  type="number" >
+                0
+            </Value>
+            <Value property="arptie31"  type="number" >
+                0
+            </Value>
+            <Value property="arptie32"  type="number" >
+                0
+            </Value>
+            <Value property="arpparam1_01"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_02"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_03"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_04"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_05"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_06"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_07"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_08"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_09"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_17"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_18"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_19"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_20"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_21"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_22"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_23"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_24"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_25"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_26"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_27"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_28"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_29"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_30"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_31"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam1_32"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_01"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_02"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_03"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_04"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_05"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_06"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_07"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_08"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_09"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_17"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_18"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_19"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_20"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_21"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_22"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_23"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_24"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_25"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_26"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_27"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_28"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_29"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_30"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_31"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam2_32"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_01"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_02"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_03"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_04"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_05"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_06"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_07"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_08"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_09"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_17"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_18"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_19"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_20"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_21"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_22"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_23"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_24"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_25"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_26"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_27"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_28"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_29"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_30"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_31"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam3_32"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_01"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_02"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_03"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_04"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_05"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_06"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_07"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_08"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_09"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_17"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_18"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_19"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_20"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_21"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_22"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_23"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_24"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_25"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_26"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_27"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_28"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_29"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_30"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_31"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpparam4_32"  type="number" >
+                0.5
+            </Value>
+            <Value property="arpstepsseq"  type="number" >
+                15
+            </Value>
+            <Value property="arpstepsmidi"  type="number" >
+                7
+            </Value>
+            <Value property="arptype"  type="number" >
+                0
+            </Value>
+            <Value property="arpmode"  type="number" >
+                0
+            </Value>
+            <Value property="arp_seq_name"  type="string" />
+            <Value property="arp_midi_name"  type="string" />
+            <Value property="arp_midi_data"  type="string" />
+            <Value property="curvevelocity"  type="number" >
+                0.5
+            </Value>
+            <Value property="curvetimbre"  type="number" >
+                0.5
+            </Value>
+            <Value property="curveaftertouch"  type="number" >
+                0.5
+            </Value>
+            <Value property="audio_input_volume"  type="number" >
+                1
+            </Value>
+            <Value property="empty_parameter"  type="number" >
+                0
+            </Value>
+            <Value property="pb_range_up"  type="number" >
+                7
+            </Value>
+            <Value property="pb_range_down"  type="number" >
+                5
+            </Value>
+            <Value property="opts_sync_mode"  type="number" >
+                1
+            </Value>
+            <Value property="opts_poly_mode"  type="number" >
+                1
+            </Value>
+            <Value property="opts_mono_mode"  type="number" >
+                0
+            </Value>
+            <Value property="opts_revision"  type="number" >
+                0
+            </Value>
+            <Value property="opts_mod_pitch_range"  type="number" >
+                0.5
+            </Value>
+            <Value property="opts_mod_shape"  type="number" >
+                0
+            </Value>
+            <Value property="opts_mod_cutoff_range"  type="number" >
+                0.5
+            </Value>
+            <Value property="opts_osc_phase1"  type="number" >
+                0
+            </Value>
+            <Value property="opts_osc_phase2"  type="number" >
+                0
+            </Value>
+            <Value property="opts_osc_phase3"  type="number" >
+                0
+            </Value>
+            <Value property="opts_osc_keytracking"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="opts_osc_drift"  type="number" >
+                0
+            </Value>
+            <Value property="opts_osc3_lo_sync"  type="number" >
+                0
+            </Value>
+            <Value property="opts_flt_cutoff_range"  type="number" >
+                0.5
+            </Value>
+            <Value property="opts_flt_resonance_range"  type="number" >
+                0.5
+            </Value>
+            <Value property="opts_flt_symmetry"  type="number" >
+                0.593699932098388671875
+            </Value>
+            <Value property="opts_amp_saturation"  type="number" >
+                0.203899860382080078125
+            </Value>
+            <Value property="opts_mains_frequency"  type="number" >
+                1
+            </Value>
+            <Value property="fx_ffb_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_ffb_mode"  type="number" >
+                0
+            </Value>
+            <Value property="fx_ffb_band1"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band2"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band3"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band4"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band5"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band6"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band7"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band8"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band9"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band10"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band11"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band12"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band13"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_band14"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_ffb_q"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_eq_band1"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band2"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band3"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band4"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band5"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band6"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band7"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band8"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band9"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_band10"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_phaser_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_phaser_rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_phaser_width"  type="number" >
+                1
+            </Value>
+            <Value property="fx_phaser_dry_wet"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_chorus_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_chorus_rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_chorus_width"  type="number" >
+                1
+            </Value>
+            <Value property="fx_chorus_dry_wet"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_rev_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_rev_room"  type="number" >
+                0
+            </Value>
+            <Value property="fx_rev_chorale"  type="number" >
+                0
+            </Value>
+            <Value property="fx_rev_deep"  type="number" >
+                0
+            </Value>
+            <Value property="fx_rev_time"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_rev_color"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_rev_width"  type="number" >
+                1
+            </Value>
+            <Value property="fx_rev_dry_wet"  type="number" >
+                0.2886998653411865234375
+            </Value>
+            <Value property="fx_del_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_del_ping_pong"  type="number" >
+                1
+            </Value>
+            <Value property="fx_del_high_cut"  type="number" >
+                0
+            </Value>
+            <Value property="fx_del_lo_cut"  type="number" >
+                0
+            </Value>
+            <Value property="fx_del_time_l"  type="number" >
+                7
+            </Value>
+            <Value property="fx_del_time_r"  type="number" >
+                7
+            </Value>
+            <Value property="fx_del_width"  type="number" >
+                1
+            </Value>
+            <Value property="fx_del_tape_sat"  type="number" >
+                0
+            </Value>
+            <Value property="fx_del_wow"  type="number" >
+                0
+            </Value>
+            <Value property="fx_del_feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_del_dry_wet"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_comp_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_comp_mode"  type="number" >
+                1
+            </Value>
+            <Value property="fx_comp_poly_mast"  type="number" >
+                1
+            </Value>
+            <Value property="fx_comp_input"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_comp_output"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_comp_threshold"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_comp_ratio"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_comp_saturation"  type="number" >
+                0
+            </Value>
+            <Value property="patch_comment"  type="string" />
+            <Value property="lfo_phase"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>
