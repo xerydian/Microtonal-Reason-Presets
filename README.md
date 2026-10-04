@@ -30,11 +30,10 @@ This pack contains presets in:
 
 For the following Rack instruments:
 - **Reason Studio**: Complex-1, Europa, Grain, Parsec, Polytone
-- **Synapse Audio**: Antidote, Obsession, The Legend HZ
-- **Lectric Panda**: Nostromo, Torsion
-- **Turn2on**: Blackpole Station, DyingStar
-- **And more**: Arkana, Autosub, BitSynthzr, MonoPoly, Noxious, Spectra, VK-2 Synthesizer
-
+- **Third Party**: Arkana, Autosub, BitSynthzr, MonoPoly, Noxious, Spectra, VK-2 Synthesizer
+    - **Synapse Audio**: Antidote, Obsession, The Legend HZ
+    - **Lectric Panda**: Nostromo, Torsion
+    - **Turn2on**: Blackpole Station, DyingStar
 
 
 ### CV Helpers
