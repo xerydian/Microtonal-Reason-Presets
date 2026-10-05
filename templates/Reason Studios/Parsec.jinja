@@ -33,7 +33,7 @@
                 1
             </Value>
             <Value property="A Cutoff Kbd"  type="number" >
-                {{ if_keytrack_filter( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="A Cutoff Freq"  type="number" >
                 0.5
@@ -93,7 +93,7 @@
                 0.5
             </Value>
             <Value property="B Cutoff Freq"  type="number" >
-                {{ if_keytrack_filter( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="B Cutoff Slope"  type="number" >
                 0.5

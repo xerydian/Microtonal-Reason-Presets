@@ -1,0 +1,875 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.Europa"  deviceVersion="2.0.9" >
+    <DeviceNameInEnglish>
+        Europa Shapeshifting Synthesizer
+    </DeviceNameInEnglish>
+    <Samples/>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Pitchbend Range"  type="number" >
+                2
+            </Value>
+            <Value property="Voices"  type="number" >
+                7
+            </Value>
+            <Value property="Portamento"  type="number" >
+                0.5
+            </Value>
+            <Value property="Portamento Mode"  type="number" >
+                2
+            </Value>
+            <Value property="Key Mode"  type="number" >
+                2
+            </Value>
+            <Value property="Osc1 Semi"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Oct"  type="number" >
+                2
+            </Value>
+            <Value property="Osc1 Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1 Pitch Kbd"  type="number" >
+                0.7058823529411765
+            </Value>
+            <Value property="Osc1 Shape"  type="number" >
+                1
+            </Value>
+            <Value property="Osc1 Shape Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Shape Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod1 Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod1 Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod2 Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod2 Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Filter Freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1 Filter Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Filter Kbd"  type="number" >
+                0.7058823529411765
+            </Value>
+            <Value property="Osc1 Filter Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Filter Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Harm Pos"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1 Harm Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Count"  type="number" >
+                4
+            </Value>
+            <Value property="Osc1 Blend"  type="number" >
+                1
+            </Value>
+            <Value property="Osc1 Detune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1 Spread"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Osc2 Semi"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Oct"  type="number" >
+                2
+            </Value>
+            <Value property="Osc2 Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2 Pitch Kbd"  type="number" >
+                0.7058823529411765
+            </Value>
+            <Value property="Osc2 Shape"  type="number" >
+                1
+            </Value>
+            <Value property="Osc2 Shape Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Shape Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod1 Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod1 Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod2 Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod2 Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Filter Freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2 Filter Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Filter Kbd"  type="number" >
+                0.7058823529411765
+            </Value>
+            <Value property="Osc2 Filter Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Filter Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Harm Pos"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2 Harm Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Count"  type="number" >
+                4
+            </Value>
+            <Value property="Osc2 Blend"  type="number" >
+                1
+            </Value>
+            <Value property="Osc2 Detune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2 Spread"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Osc3 Semi"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Oct"  type="number" >
+                2
+            </Value>
+            <Value property="Osc3 Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3 Pitch Kbd"  type="number" >
+                0.7058823529411765
+            </Value>
+            <Value property="Osc3 Shape"  type="number" >
+                1
+            </Value>
+            <Value property="Osc3 Shape Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Shape Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod1 Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod1 Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod2 Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod2 Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Filter Freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3 Filter Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Filter Kbd"  type="number" >
+                0.7058823529411765
+            </Value>
+            <Value property="Osc3 Filter Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Filter Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Harm Pos"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3 Harm Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Count"  type="number" >
+                4
+            </Value>
+            <Value property="Osc3 Blend"  type="number" >
+                1
+            </Value>
+            <Value property="Osc3 Detune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3 Spread"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Osc1 Level"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Osc1 Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2 Level"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Osc2 Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3 Level"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Osc3 Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Drive"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Filter Freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd"  type="number" >
+                0.7058823529411765
+            </Value>
+            <Value property="Filter Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Master Volume"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Amp Gain"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="Amp Velocity"  type="number" >
+                0
+            </Value>
+            <Value property="Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Attack"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Amp Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Sustain"  type="number" >
+                1
+            </Value>
+            <Value property="Amp Release"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Env 1 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env 2 Rate"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="Env 3 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env 4 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env 1 Syncrate"  type="number" >
+                10
+            </Value>
+            <Value property="Env 2 Syncrate"  type="number" >
+                10
+            </Value>
+            <Value property="Env 3 Syncrate"  type="number" >
+                11
+            </Value>
+            <Value property="Env 4 Syncrate"  type="number" >
+                7
+            </Value>
+            <Value property="LFO 1 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO 1 Delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 1 SyncRate"  type="number" >
+                11
+            </Value>
+            <Value property="LFO 1 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 2 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO 2 Delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 2 SyncRate"  type="number" >
+                10
+            </Value>
+            <Value property="LFO 2 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 3 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO 3 Delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 3 SyncRate"  type="number" >
+                10
+            </Value>
+            <Value property="LFO 3 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Mod1 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod1 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod1 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod2 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod2 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod2 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod3 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod3 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod3 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod4 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod4 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod4 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod5 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod5 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod5 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod6 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod6 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod6 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod7 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod7 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod7 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod8 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod8 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod8 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Effect On"  type="number" >
+                1
+            </Value>
+            <Value property="Effect Order"  type="number" >
+                549
+            </Value>
+            <Value property="Reverb On"  type="number" >
+                0
+            </Value>
+            <Value property="Delay On"  type="number" >
+                0
+            </Value>
+            <Value property="Dist On"  type="number" >
+                0
+            </Value>
+            <Value property="Comp On"  type="number" >
+                0
+            </Value>
+            <Value property="Phaser On"  type="number" >
+                0
+            </Value>
+            <Value property="Eq On"  type="number" >
+                0
+            </Value>
+            <Value property="Dist Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dist Type"  type="number" >
+                0
+            </Value>
+            <Value property="Dist Tone"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="Dist Amount"  type="number" >
+                1
+            </Value>
+            <Value property="Mod Effect Type"  type="number" >
+                0
+            </Value>
+            <Value property="Mod Effect Amount"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="Mod Effect Rate"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Mod Effect Depth"  type="number" >
+                0.7999999523162841796875
+            </Value>
+            <Value property="Mod Effect Spread"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="Delay Pan"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Delay Amount"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Delay FB"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="Delay Sync"  type="number" >
+                1
+            </Value>
+            <Value property="Delay PingPong"  type="number" >
+                1
+            </Value>
+            <Value property="Delay Time"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Delay Synced Time"  type="number" >
+                4
+            </Value>
+            <Value property="EQ Gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ Q"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="EQ Freq"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Comp Release"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp Attack"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp Threshold"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp Ratio"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb Damp"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="Reverb Size"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Reverb Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb Amount"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="Curve1"  type="string" >
+                01010201015101018101A16DA10181
+            </Value>
+            <Value property="Curve2"  type="string" >
+                01040101015101017911A16D514F75A10181
+            </Value>
+            <Value property="Curve3"  type="string" >
+                01010201015101516E15A1813DA19551516E6501818D0195A15180
+            </Value>
+            <Value property="Curve4"  type="string" >
+                010102010151010181018F810B8F810B01821601811661891F61811F01812901812981813481813401813D01813D63814763814701815101815195815B95815B01816501816537816F37816F0181790181798D81838D818301818D01818D5181975181970181A10181A10181
+            </Value>
+            <Value property="Curve"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Mod1 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod1 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod1 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod1 Source"  type="number" >
+                8
+            </Value>
+            <Value property="Mod2 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod2 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod2 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod2 Source"  type="number" >
+                9
+            </Value>
+            <Value property="Mod3 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod3 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod3 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod3 Source"  type="number" >
+                4
+            </Value>
+            <Value property="Mod4 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod4 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod4 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod4 Source"  type="number" >
+                5
+            </Value>
+            <Value property="Mod5 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod5 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod5 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod5 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod6 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod6 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod6 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod6 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod7 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod7 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod7 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod7 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod8 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Mod8 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Mod8 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Mod8 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Env Select"  type="number" >
+                0
+            </Value>
+            <Value property="Env Edit Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Select"  type="number" >
+                2
+            </Value>
+            <Value property="LFO 1 KeySync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 1 Global"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 1 TempoSync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 2 KeySync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 2 Global"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 2 TempoSync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 3 KeySync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 3 Global"  type="number" >
+                0
+            </Value>
+            <Value property="LFO 3 TempoSync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Select"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type"  type="number" >
+                3
+            </Value>
+            <Value property="Osc1 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod1"  type="number" >
+                7
+            </Value>
+            <Value property="Osc1 Filter"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Unison Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Harm"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod2"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Unison On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Filter On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Harm On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod1 On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Mod2 On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 To Filter"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 SyncPhase"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1 Shape Source"  type="number" >
+                6
+            </Value>
+            <Value property="Osc1 Filter Source"  type="number" >
+                7
+            </Value>
+            <Value property="Osc1 Mod1 Source"  type="number" >
+                3
+            </Value>
+            <Value property="Osc1 Mod2 Source"  type="number" >
+                10
+            </Value>
+            <Value property="Filter Mod Source"  type="number" >
+                7
+            </Value>
+            <Value property="Osc1 On"  type="number" >
+                1
+            </Value>
+            <Value property="OscSel"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod1"  type="number" >
+                7
+            </Value>
+            <Value property="Osc2 Filter"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Unison Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Harm"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod2"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Unison On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Filter On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Harm On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod1 On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Mod2 On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 To Filter"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 SyncPhase"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2 Shape Source"  type="number" >
+                6
+            </Value>
+            <Value property="Osc2 Filter Source"  type="number" >
+                7
+            </Value>
+            <Value property="Osc2 Mod1 Source"  type="number" >
+                3
+            </Value>
+            <Value property="Osc2 Mod2 Source"  type="number" >
+                10
+            </Value>
+            <Value property="Osc2 On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod1"  type="number" >
+                7
+            </Value>
+            <Value property="Osc3 Filter"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Unison Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Harm"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod2"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Unison On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Filter On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Harm On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod1 On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Mod2 On"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 To Filter"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 SyncPhase"  type="number" >
+                0
+            </Value>
+            <Value property="Osc3 Shape Source"  type="number" >
+                6
+            </Value>
+            <Value property="Osc3 Filter Source"  type="number" >
+                7
+            </Value>
+            <Value property="Osc3 Mod1 Source"  type="number" >
+                3
+            </Value>
+            <Value property="Osc3 Mod2 Source"  type="number" >
+                10
+            </Value>
+            <Value property="Osc3 On"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="device_host" >
+            <Value property="sample_context"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+        <Object name="user_samples/0" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+    </Properties>
+</JukeboxPatch>

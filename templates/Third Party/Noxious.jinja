@@ -246,10 +246,10 @@
                 0.75
             </Value>
             <Value property="modulation12_strength"  type="number" >
-                {{ remap( if_keytrack_filter( tracking ), 0.5, 0.75 ) }}
+                {{ remap( tracking * filter_keytrk_factor, 0.5, 0.75 ) }}
             </Value>
             <Value property="modulation13_strength"  type="number" >
-                {{ remap( if_keytrack_filter( tracking ), 0.5, 0.75 ) }}
+                {{ remap( tracking * filter_keytrk_factor, 0.5, 0.75 ) }}
             </Value>
             <Value property="modulation14_strength"  type="number" >
                 {{ remap(tracking, 0, 0.5) }}

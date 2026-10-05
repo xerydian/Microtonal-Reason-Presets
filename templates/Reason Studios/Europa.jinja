@@ -247,7 +247,7 @@
                 0
             </Value>
             <Value property="Filter Kbd"  type="number" >
-                {{ if_keytrack_filter( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="Filter Mod"  type="number" >
                 0

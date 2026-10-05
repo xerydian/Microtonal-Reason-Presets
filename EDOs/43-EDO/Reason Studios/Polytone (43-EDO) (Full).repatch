@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.Polytone"  deviceVersion="1.0.5" >
+    <DeviceNameInEnglish>
+        Polytone Dual-Layer Synthesizer
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Osc 1 Kbd"  type="number" >
+                0.27906976744186046
+            </Value>
+            <Value property="Osc 1 Kbd B"  type="number" >
+                0.27906976744186046
+            </Value>
+            <Value property="Osc 1 Pitch"  type="number" >
+                24
+            </Value>
+            <Value property="Osc 1 Pitch B"  type="number" >
+                24
+            </Value>
+            <Value property="Osc 1 Pitch Mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 1 Pitch Mod B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 1 Shape"  type="number" >
+                0
+            </Value>
+            <Value property="Osc 1 Shape B"  type="number" >
+                0
+            </Value>
+            <Value property="Osc 1 Shape Mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 1 Shape Mod B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 1 Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 1 Tune B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 1 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Osc 1 Wave B"  type="number" >
+                0
+            </Value>
+            <Value property="FM Amt"  type="number" >
+                0
+            </Value>
+            <Value property="FM Amt B"  type="number" >
+                0
+            </Value>
+            <Value property="FM Mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="FM Mod B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Osc Sync B"  type="number" >
+                0
+            </Value>
+            <Value property="Osc 2 Kbd"  type="number" >
+                0.27906976744186046
+            </Value>
+            <Value property="Osc 2 Kbd B"  type="number" >
+                0.27906976744186046
+            </Value>
+            <Value property="Osc 2 Pitch"  type="number" >
+                24
+            </Value>
+            <Value property="Osc 2 Pitch B"  type="number" >
+                24
+            </Value>
+            <Value property="Osc 2 Pitch Mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 2 Pitch Mod B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 2 Shape"  type="number" >
+                0
+            </Value>
+            <Value property="Osc 2 Shape B"  type="number" >
+                0
+            </Value>
+            <Value property="Osc 2 Shape Mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 2 Shape Mod B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 2 Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 2 Tune B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc 2 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Osc 2 Wave B"  type="number" >
+                0
+            </Value>
+            <Value property="Noise Level"  type="number" >
+                0
+            </Value>
+            <Value property="Noise Level B"  type="number" >
+                0
+            </Value>
+            <Value property="Osc Level"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc Level B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Osc Mix B"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Env Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Env Amt B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Env Vel"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Env Vel B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Freq B"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Kbd"  type="number" >
+                0.27906976744186046
+            </Value>
+            <Value property="Filter Kbd B"  type="number" >
+                0.27906976744186046
+            </Value>
+            <Value property="Filter Mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Mod B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Reso B"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type B"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay B"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate B"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave B"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Env Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Env Attack B"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Env Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Env Decay B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Env Release"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Env Release B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Env Sustain"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Env Sustain B"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Env Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Env Attack B"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Env Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Env Decay B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Env Release"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Amp Env Release B"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Amp Env Sustain"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Env Sustain B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod Env Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Mod Env Attack B"  type="number" >
+                0
+            </Value>
+            <Value property="Mod Env Release"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod Env Release B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod Env Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Mod Env Vel B"  type="number" >
+                0
+            </Value>
+            <Value property="Global LFO Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Global LFO Level"  type="number" >
+                0
+            </Value>
+            <Value property="Global LFO OneShot"  type="number" >
+                0
+            </Value>
+            <Value property="Global LFO Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="Global LFO Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Global LFO Sync Rate"  type="number" >
+                10
+            </Value>
+            <Value property="Global LFO Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Vel"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Vel B"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Spread B"  type="number" >
+                0
+            </Value>
+            <Value property="Reverb Amount"  type="number" >
+                0
+            </Value>
+            <Value property="Reverb Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb Type"  type="number" >
+                1
+            </Value>
+            <Value property="Chorus Amount"  type="number" >
+                0
+            </Value>
+            <Value property="Chorus Type"  type="number" >
+                0
+            </Value>
+            <Value property="Age"  type="number" >
+                0
+            </Value>
+            <Value property="Balance Mod"  type="number" >
+                0
+            </Value>
+            <Value property="Layer Balance"  type="number" >
+                0
+            </Value>
+            <Value property="Layer Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Layer Select"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch Bend Range"  type="number" >
+                2
+            </Value>
+            <Value property="Pitch Bend Range B"  type="number" >
+                2
+            </Value>
+            <Value property="Polyphony"  type="number" >
+                19
+            </Value>
+            <Value property="Portamento Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Portamento Mode B"  type="number" >
+                0
+            </Value>
+            <Value property="Portamento Time"  type="number" >
+                0.5
+            </Value>
+            <Value property="Portamento Time B"  type="number" >
+                0.5
+            </Value>
+            <Value property="Wheel to FM"  type="number" >
+                0
+            </Value>
+            <Value property="Wheel to FM B"  type="number" >
+                0
+            </Value>
+            <Value property="Wheel to Filter"  type="number" >
+                0
+            </Value>
+            <Value property="Wheel to Filter B"  type="number" >
+                0
+            </Value>
+            <Value property="Wheel to LFO"  type="number" >
+                0
+            </Value>
+            <Value property="Wheel to LFO B"  type="number" >
+                0
+            </Value>
+            <Value property="Key Mode"  type="number" >
+                2
+            </Value>
+            <Value property="Master Volume"  type="number" >
+                0.69999980926513671875
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

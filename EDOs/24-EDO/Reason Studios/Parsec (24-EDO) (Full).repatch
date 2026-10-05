@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Parsec Spectral Synthesizer
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="se.propellerheads.Parsec"  deviceVersion="2.0.3" >
+        <Object name="custom_properties" >
+            <Value property="A Mod1 On"  type="number" >
+                1
+            </Value>
+            <Value property="A Mod2 On"  type="number" >
+                1
+            </Value>
+            <Value property="A Mod1 Select"  type="number" >
+                0
+            </Value>
+            <Value property="A Mod2 Select"  type="number" >
+                0
+            </Value>
+            <Value property="A Mod1 X"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Mod1 Y"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Mod2 X"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Mod2 Y"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Phase Sync"  type="number" >
+                1
+            </Value>
+            <Value property="A Cutoff Kbd"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Cutoff Freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Cutoff Slope"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Semi"  type="number" >
+                0
+            </Value>
+            <Value property="A Oct"  type="number" >
+                2
+            </Value>
+            <Value property="A Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Pitch Kbd"  type="number" >
+                0.5
+            </Value>
+            <Value property="A Gen Select"  type="number" >
+                0
+            </Value>
+            <Value property="A Gen X"  type="number" >
+                0
+            </Value>
+            <Value property="SE2 Enable"  type="number" >
+                0
+            </Value>
+            <Value property="B Mod1 On"  type="number" >
+                1
+            </Value>
+            <Value property="B Mod2 On"  type="number" >
+                1
+            </Value>
+            <Value property="B Mod1 Select"  type="number" >
+                0
+            </Value>
+            <Value property="B Mod2 Select"  type="number" >
+                0
+            </Value>
+            <Value property="B Mod1 X"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Mod1 Y"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Mod2 X"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Mod2 Y"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Phase Sync"  type="number" >
+                1
+            </Value>
+            <Value property="B Cutoff Kbd"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Cutoff Freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Cutoff Slope"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Semi"  type="number" >
+                0
+            </Value>
+            <Value property="B Oct"  type="number" >
+                2
+            </Value>
+            <Value property="B Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Pitch Kbd"  type="number" >
+                0.5
+            </Value>
+            <Value property="B Gen Select"  type="number" >
+                0
+            </Value>
+            <Value property="B Gen X"  type="number" >
+                0
+            </Value>
+            <Value property="Env1 Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Env1 Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env1 Sustain"  type="number" >
+                0
+            </Value>
+            <Value property="Env1 Release"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env2 Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Env2 Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env2 Sustain"  type="number" >
+                0
+            </Value>
+            <Value property="Env2 Release"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env2 Delay"  type="number" >
+                0
+            </Value>
+            <Value property="Env2 Hold"  type="number" >
+                0
+            </Value>
+            <Value property="Env2 Loop"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Sustain"  type="number" >
+                1
+            </Value>
+            <Value property="Amp Release"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO1 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO1 Delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2 Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO2 Sync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2 Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2 Synced Rate"  type="number" >
+                10
+            </Value>
+            <Value property="Env1 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env1 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env1 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env2 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env2 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env2 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO1 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO1 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO1 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO2 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO2 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO2 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free1 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free1 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free1 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free2 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free2 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free2 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free3 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free3 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free3 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free4 Dest1 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free4 Dest2 Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Free4 Scale Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay On"  type="number" >
+                0
+            </Value>
+            <Value property="Delay Time"  type="number" >
+                0.5
+            </Value>
+            <Value property="Time Synced"  type="number" >
+                4
+            </Value>
+            <Value property="Delay Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Delay Feedback"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="Delay DryWet"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="Reverb On"  type="number" >
+                0
+            </Value>
+            <Value property="Reverb Damp"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb Size"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb DryWet"  type="number" >
+                0.3999998569488525390625
+            </Value>
+            <Value property="Portamento Mode"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="Key Mode"  type="number" >
+                2
+            </Value>
+            <Value property="PitchBend range"  type="number" >
+                7
+            </Value>
+            <Value property="Balance"  type="number" >
+                0.5
+            </Value>
+            <Value property="Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Spread Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Master Level"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Link Engines"  type="number" >
+                0
+            </Value>
+            <Value property="Curve0"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve1"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve2"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve3"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve4"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve5"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve6"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve7"  type="string" >
+                808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve8"  type="string" >
+                80808080808080808080808080808080808080808080808080808080808080808080808080808080A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A380808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve9"  type="string" >
+                80808080808080808080808080808080808080808080808080808080808080808080808080808080A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A380808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve10"  type="string" >
+                80808080808080808080808080808080808080808080808080808080808080808080808080808080A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A380808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Curve11"  type="string" >
+                80808080808080808080808080808080808080808080808080808080808080808080808080808080A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A380808080808080808080808080808080808080808080808080808080808080808080808080808080
+            </Value>
+            <Value property="Env1 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Env1 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Env1 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Free1 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Env2 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Env2 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Env2 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Free1 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Free1 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Free1 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Free2 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Free2 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Free2 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Free2 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Free3 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Free3 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Free3 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Free3 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Free4 Source"  type="number" >
+                0
+            </Value>
+            <Value property="Free4 Dest1"  type="number" >
+                0
+            </Value>
+            <Value property="Free4 Dest2"  type="number" >
+                0
+            </Value>
+            <Value property="Free4 Scale"  type="number" >
+                0
+            </Value>
+            <Value property="Env1 Source"  type="number" >
+                2
+            </Value>
+            <Value property="Env2 Source"  type="number" >
+                3
+            </Value>
+            <Value property="LFO1 Source"  type="number" >
+                5
+            </Value>
+            <Value property="LFO2 Source"  type="number" >
+                6
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

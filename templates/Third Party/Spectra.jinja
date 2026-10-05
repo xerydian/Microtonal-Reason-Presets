@@ -229,7 +229,7 @@
                 0
             </Value>
             <Value property="filteronetrackingamount"  type="number" >
-                {{ if_keytrack_filter( remap(tracking, 0.5, 0.75), 0.5 ) }}
+                {{ remap(tracking * filter_keytrk_factor, 0.5, 0.75) }}
             </Value>
             <Value property="filteroneenvamount"  type="number" >
                 0.5
@@ -256,7 +256,7 @@
                 0
             </Value>
             <Value property="filtertwotrackingamount"  type="number" >
-                {{ if_keytrack_filter( remap(tracking, 0.5, 0.75), 0.5 ) }}
+                {{ remap(tracking * filter_keytrk_factor, 0.5, 0.75) }}
             </Value>
             <Value property="filtertwoenvamount"  type="number" >
                 0.5

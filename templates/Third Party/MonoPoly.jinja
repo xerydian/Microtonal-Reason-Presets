@@ -84,7 +84,7 @@
                 0.5
             </Value>
             <Value property="VCF_KBD_TRACK"  type="number" >
-                {{ if_keytrack_filter( remap( tracking, 0, 2/3 ) ) }}
+                {{ remap(tracking * filter_keytrk_factor, 0, 2/3 ) }}
             </Value>
             <Value property="MG_1_KEY_SYNC"  type="number" >
                 0

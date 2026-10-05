@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Antidote
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="com.synapseAudioSoftware.Antidote"  deviceVersion="1.2.8" >
+        <Object name="custom_properties" >
+            <Value property="polyphony"  type="number" >
+                3
+            </Value>
+            <Value property="glide"  type="number" >
+                0
+            </Value>
+            <Value property="mastervolume"  type="number" >
+                0.5
+            </Value>
+            <Value property="ext_in_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1semi"  type="number" >
+                24
+            </Value>
+            <Value property="osc1fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1detune"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1spread"  type="number" >
+                0
+            </Value>
+            <Value property="osc1phase"  type="number" >
+                1
+            </Value>
+            <Value property="osc1modifier"  type="number" >
+                0
+            </Value>
+            <Value property="osc1keytrack"  type="number" >
+                0.2926829268292683
+            </Value>
+            <Value property="osc1pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc1waveform"  type="number" >
+                0
+            </Value>
+            <Value property="osc1voices"  type="number" >
+                1
+            </Value>
+            <Value property="osc1dyad"  type="number" >
+                0
+            </Value>
+            <Value property="osc2semi"  type="number" >
+                24
+            </Value>
+            <Value property="osc2fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2detune"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2spread"  type="number" >
+                0
+            </Value>
+            <Value property="osc2phase"  type="number" >
+                1
+            </Value>
+            <Value property="osc2modifier"  type="number" >
+                0
+            </Value>
+            <Value property="osc2keytrack"  type="number" >
+                0.2926829268292683
+            </Value>
+            <Value property="osc2pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="osc2waveform"  type="number" >
+                0
+            </Value>
+            <Value property="osc2voices"  type="number" >
+                0
+            </Value>
+            <Value property="osc2dyad"  type="number" >
+                0
+            </Value>
+            <Value property="mixerosc1"  type="number" >
+                0.5
+            </Value>
+            <Value property="mixerosc2"  type="number" >
+                0.5
+            </Value>
+            <Value property="subosc1"  type="number" >
+                0
+            </Value>
+            <Value property="subosc2"  type="number" >
+                0
+            </Value>
+            <Value property="drift"  type="number" >
+                0
+            </Value>
+            <Value property="filtertype"  type="number" >
+                3
+            </Value>
+            <Value property="filtercutoff"  type="number" >
+                1
+            </Value>
+            <Value property="filterreso"  type="number" >
+                0
+            </Value>
+            <Value property="filterenvamt"  type="number" >
+                0
+            </Value>
+            <Value property="filterkeytrack"  type="number" >
+                0.2926829268292683
+            </Value>
+            <Value property="fltenvatk"  type="number" >
+                0
+            </Value>
+            <Value property="fltenvdec"  type="number" >
+                0.5
+            </Value>
+            <Value property="fltenvsus"  type="number" >
+                1
+            </Value>
+            <Value property="fltenvrel"  type="number" >
+                0.5
+            </Value>
+            <Value property="modenvatk"  type="number" >
+                0
+            </Value>
+            <Value property="modenvdec"  type="number" >
+                0.5
+            </Value>
+            <Value property="modenvsus"  type="number" >
+                1
+            </Value>
+            <Value property="modenvrel"  type="number" >
+                0.5
+            </Value>
+            <Value property="modenvtarget"  type="number" >
+                0
+            </Value>
+            <Value property="modenvtargetamount"  type="number" >
+                0.5
+            </Value>
+            <Value property="ampenvatk"  type="number" >
+                0
+            </Value>
+            <Value property="ampenvdec"  type="number" >
+                0.5
+            </Value>
+            <Value property="ampenvsus"  type="number" >
+                1
+            </Value>
+            <Value property="ampenvrel"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo1rate_sync"  type="number" >
+                13
+            </Value>
+            <Value property="lfo1shape"  type="number" >
+                0
+            </Value>
+            <Value property="lfo1sync"  type="number" >
+                1
+            </Value>
+            <Value property="lfo1freerun"  type="number" >
+                1
+            </Value>
+            <Value property="lfo1target"  type="number" >
+                0
+            </Value>
+            <Value property="lfo1targetamount"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="lfo2rate_sync"  type="number" >
+                13
+            </Value>
+            <Value property="lfo2shape"  type="number" >
+                0
+            </Value>
+            <Value property="lfo2sync"  type="number" >
+                1
+            </Value>
+            <Value property="lfo2freerun"  type="number" >
+                1
+            </Value>
+            <Value property="lfo2target"  type="number" >
+                0
+            </Value>
+            <Value property="lfo2targetamount"  type="number" >
+                0.5
+            </Value>
+            <Value property="mm_slot1_source"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot1_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="mm_slot1_destination"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot2_source"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot2_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="mm_slot2_destination"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot3_source"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot3_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="mm_slot3_destination"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot4_source"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot4_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="mm_slot4_destination"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot5_source"  type="number" >
+                0
+            </Value>
+            <Value property="mm_slot5_amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="mm_slot5_destination"  type="number" >
+                0
+            </Value>
+            <Value property="arp_mode"  type="number" >
+                0
+            </Value>
+            <Value property="arp_gate"  type="number" >
+                0.5
+            </Value>
+            <Value property="arp_pattern"  type="number" >
+                0
+            </Value>
+            <Value property="arp_hold"  type="number" >
+                0
+            </Value>
+            <Value property="arp_rate"  type="number" >
+                19
+            </Value>
+            <Value property="arp_octave"  type="number" >
+                0
+            </Value>
+            <Value property="fx_1_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_eq_low_gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_mid_freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_mid_q"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_mid_gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_high_gain"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_eq_bass_freq"  type="number" >
+                0.451799869537353515625
+            </Value>
+            <Value property="fx_eq_bass_amount"  type="number" >
+                0
+            </Value>
+            <Value property="fx_eq_drywet"  type="number" >
+                1
+            </Value>
+            <Value property="fx_2_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_dist_type"  type="number" >
+                0
+            </Value>
+            <Value property="fx_dist_drive"  type="number" >
+                0
+            </Value>
+            <Value property="fx_dist_symmetry"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_dist_tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_dist_lo_cut"  type="number" >
+                0
+            </Value>
+            <Value property="fx_dist_hi_cut"  type="number" >
+                1
+            </Value>
+            <Value property="fx_dist_level"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_dist_drywet"  type="number" >
+                1
+            </Value>
+            <Value property="fx_3_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_phaser_stages"  type="number" >
+                1
+            </Value>
+            <Value property="fx_phaser_freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_phaser_spread"  type="number" >
+                1
+            </Value>
+            <Value property="fx_phaser_feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_phaser_rate"  type="number" >
+                13
+            </Value>
+            <Value property="fx_phaser_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_phaser_lr_offset"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_phaser_drywet"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_4_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_chorus_delay"  type="number" >
+                0.805799961090087890625
+            </Value>
+            <Value property="fx_chorus_rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_chorus_depth"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="fx_chorus_feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_chorus_lr_offset"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_chorus_drywet"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_5_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_delay_type"  type="number" >
+                0
+            </Value>
+            <Value property="fx_delay_l_rate"  type="number" >
+                10
+            </Value>
+            <Value property="fx_delay_r_rate"  type="number" >
+                10
+            </Value>
+            <Value property="fx_delay_color"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_delay_feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_delay_mod_rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_delay_mod_amt"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="fx_delay_drywet"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_6_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_reverb_pre_delay"  type="number" >
+                0
+            </Value>
+            <Value property="fx_reverb_time"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_reverb_hf_damp"  type="number" >
+                1
+            </Value>
+            <Value property="fx_reverb_low_cut"  type="number" >
+                0
+            </Value>
+            <Value property="fx_reverb_high_cut"  type="number" >
+                1
+            </Value>
+            <Value property="fx_reverb_mod"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_reverb_drywet"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_7_active"  type="number" >
+                0
+            </Value>
+            <Value property="fx_comp_ratio"  type="number" >
+                0.25
+            </Value>
+            <Value property="fx_comp_treshold"  type="number" >
+                0.5
+            </Value>
+            <Value property="fx_comp_attack"  type="number" >
+                0
+            </Value>
+            <Value property="fx_comp_release"  type="number" >
+                0.75
+            </Value>
+            <Value property="fx_comp_drywet"  type="number" >
+                1
+            </Value>
+            <Value property="fx_chains_switches"  type="number" >
+                0
+            </Value>
+            <Value property="empty_parameter"  type="number" >
+                0.5
+            </Value>
+            <Value property="pb_range_up"  type="number" >
+                2
+            </Value>
+            <Value property="pb_range_down"  type="number" >
+                2
+            </Value>
+            <Value property="velocity_to_volume"  type="number" >
+                0.5
+            </Value>
+            <Value property="velocity_to_pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="velocity_to_filter"  type="number" >
+                0.5
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

@@ -55,7 +55,10 @@ Carlos = [
     ("Gamma", 34.188),
 ]
 
-SHOULD_KEYTRACK_FILTER = True
-HALVE_FILTER_KT = True
-
 SHOULD_KEYTRACK_EXTRA = False
+
+FILTER_KEYTRK_OPTIONS = [
+    (0,   "Zero"),
+    (0.5, "Half"),
+    (1,   "Full"),
+]

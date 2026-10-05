@@ -309,7 +309,7 @@
                 0
             </Value>
             <Value property="lfo_1_key_follow"  type="number" >
-                {{ if_keytrack_extra( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="lfo_1_rate_free"  type="number" >
                 0.219999790191650390625
@@ -342,7 +342,7 @@
                 0
             </Value>
             <Value property="lfo_2_key_follow"  type="number" >
-                {{ if_keytrack_extra( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="lfo_2_rate_free"  type="number" >
                 0.219999790191650390625
@@ -375,7 +375,7 @@
                 0
             </Value>
             <Value property="lfo_3_key_follow"  type="number" >
-                {{ if_keytrack_extra( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="lfo_3_rate_free"  type="number" >
                 0.219999790191650390625
@@ -420,7 +420,7 @@
                 0
             </Value>
             <Value property="filter_1_key_follow"  type="number" >
-                {{ if_keytrack_filter( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="filter_1_level"  type="number" >
                 0.5
@@ -450,7 +450,7 @@
                 0
             </Value>
             <Value property="filter_2_key_follow"  type="number" >
-                {{ if_keytrack_filter( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="filter_2_level"  type="number" >
                 0.5
@@ -1338,7 +1338,7 @@
                 0
             </Value>
             <Value property="lfo_4_key_follow"  type="number" >
-                {{ if_keytrack_extra( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="lfo_4_rate_free"  type="number" >
                 0.219999790191650390625
@@ -1371,7 +1371,7 @@
                 0
             </Value>
             <Value property="lfo_5_key_follow"  type="number" >
-                {{ if_keytrack_extra( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="lfo_5_rate_free"  type="number" >
                 0.219999790191650390625
@@ -1404,7 +1404,7 @@
                 0
             </Value>
             <Value property="lfo_6_key_follow"  type="number" >
-                {{ if_keytrack_extra( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="lfo_6_rate_free"  type="number" >
                 0.219999790191650390625
@@ -1449,7 +1449,7 @@
                 0
             </Value>
             <Value property="filter_3_key_follow"  type="number" >
-                {{ if_keytrack_filter( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="filter_3_level"  type="number" >
                 0.5
@@ -1473,7 +1473,7 @@
                 0
             </Value>
             <Value property="filter_4_key_follow"  type="number" >
-                {{ if_keytrack_filter( tracking ) }}
+                {{ tracking * filter_keytrk_factor }}
             </Value>
             <Value property="filter_4_level"  type="number" >
                 0.5
