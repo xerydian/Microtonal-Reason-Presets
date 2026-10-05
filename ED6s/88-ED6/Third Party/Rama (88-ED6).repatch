@@ -1,0 +1,3035 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.pinknoisestudio.Rama"  deviceVersion="1.5.4" >
+    <DeviceNameInEnglish>
+        Rama Synthesizer
+    </DeviceNameInEnglish>
+    <Samples/>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="MixPad_On"  type="number" >
+                0
+            </Value>
+            <Value property="MixPad_X_Y"  type="number" >
+                0.5
+            </Value>
+            <Value property="MixPad_XY_Z"  type="number" >
+                0.3799998760223388671875
+            </Value>
+            <Value property="PlayMode"  type="number" >
+                0
+            </Value>
+            <Value property="Polyphony"  type="number" >
+                7
+            </Value>
+            <Value property="Env2TrigMode"  type="number" >
+                0
+            </Value>
+            <Value property="Legato"  type="number" >
+                0
+            </Value>
+            <Value property="Transpose"  type="number" >
+                24
+            </Value>
+            <Value property="PB_range"  type="number" >
+                2
+            </Value>
+            <Value property="Glide"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Time"  type="number" >
+                0.29604434967041015625
+            </Value>
+            <Value property="Macro1"  type="number" >
+                0
+            </Value>
+            <Value property="Macro2"  type="number" >
+                0
+            </Value>
+            <Value property="Macro3"  type="number" >
+                0
+            </Value>
+            <Value property="OscX_on"  type="number" >
+                1
+            </Value>
+            <Value property="OscX_P800_mode"  type="number" >
+                1
+            </Value>
+            <Value property="Osc16_X"  type="number" >
+                0
+            </Value>
+            <Value property="Osc8_X"  type="number" >
+                1
+            </Value>
+            <Value property="Osc4_X"  type="number" >
+                1
+            </Value>
+            <Value property="Osc2_X"  type="number" >
+                1
+            </Value>
+            <Value property="Osc_type_X"  type="number" >
+                1
+            </Value>
+            <Value property="Osc_Unison_X"  type="number" >
+                0
+            </Value>
+            <Value property="Osc_Wave_X"  type="number" >
+                0
+            </Value>
+            <Value property="OscX_Vol"  type="number" >
+                0.79365062713623046875
+            </Value>
+            <Value property="OscX_Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscX_Oct"  type="number" >
+                1
+            </Value>
+            <Value property="OscX_Semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscX_Fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscX_AmpVelo"  type="number" >
+                0.6499998569488525390625
+            </Value>
+            <Value property="SVFX_Freq"  type="number" >
+                1
+            </Value>
+            <Value property="SVFX_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="SVFX_Lphp"  type="number" >
+                0
+            </Value>
+            <Value property="DrvX_Amount"  type="number" >
+                0
+            </Value>
+            <Value property="OscY_on"  type="number" >
+                0
+            </Value>
+            <Value property="OscY_P800_mode"  type="number" >
+                1
+            </Value>
+            <Value property="Osc16_Y"  type="number" >
+                0
+            </Value>
+            <Value property="Osc8_Y"  type="number" >
+                1
+            </Value>
+            <Value property="Osc4_Y"  type="number" >
+                1
+            </Value>
+            <Value property="Osc2_Y"  type="number" >
+                1
+            </Value>
+            <Value property="Osc_type_Y"  type="number" >
+                1
+            </Value>
+            <Value property="Osc_Unison_Y"  type="number" >
+                0
+            </Value>
+            <Value property="Osc_Wave_Y"  type="number" >
+                0
+            </Value>
+            <Value property="OscY_Vol"  type="number" >
+                0.79365062713623046875
+            </Value>
+            <Value property="OscY_Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscY_Oct"  type="number" >
+                1
+            </Value>
+            <Value property="OscY_Semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscY_Fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscY_AmpVelo"  type="number" >
+                0.6499998569488525390625
+            </Value>
+            <Value property="SVFY_Freq"  type="number" >
+                1
+            </Value>
+            <Value property="SVFY_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="SVFY_Lphp"  type="number" >
+                0
+            </Value>
+            <Value property="DrvY_Amount"  type="number" >
+                0
+            </Value>
+            <Value property="OscZ_on"  type="number" >
+                0
+            </Value>
+            <Value property="OscZ_P800_mode"  type="number" >
+                1
+            </Value>
+            <Value property="Osc16_Z"  type="number" >
+                0
+            </Value>
+            <Value property="Osc8_Z"  type="number" >
+                1
+            </Value>
+            <Value property="Osc4_Z"  type="number" >
+                1
+            </Value>
+            <Value property="Osc2_Z"  type="number" >
+                1
+            </Value>
+            <Value property="Osc_type_Z"  type="number" >
+                1
+            </Value>
+            <Value property="Osc_Unison_Z"  type="number" >
+                0
+            </Value>
+            <Value property="Osc_Wave_Z"  type="number" >
+                0
+            </Value>
+            <Value property="OscZ_Vol"  type="number" >
+                0.79365062713623046875
+            </Value>
+            <Value property="OscZ_Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscZ_Oct"  type="number" >
+                1
+            </Value>
+            <Value property="OscZ_Semi"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscZ_Fine"  type="number" >
+                0.5
+            </Value>
+            <Value property="OscZ_AmpVelo"  type="number" >
+                0.6499998569488525390625
+            </Value>
+            <Value property="SVFZ_Freq"  type="number" >
+                1
+            </Value>
+            <Value property="SVFZ_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="SVFZ_Lphp"  type="number" >
+                0
+            </Value>
+            <Value property="DrvZ_Amount"  type="number" >
+                0
+            </Value>
+            <Value property="Filtr_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="FiltrX_type"  type="number" >
+                4
+            </Value>
+            <Value property="FiltrX_freq"  type="number" >
+                1
+            </Value>
+            <Value property="FiltrX_reso"  type="number" >
+                0
+            </Value>
+            <Value property="FiltrX_env"  type="number" >
+                0.5
+            </Value>
+            <Value property="FiltrX_key"  type="number" >
+                4
+            </Value>
+            <Value property="FiltrX_velo"  type="number" >
+                0.5
+            </Value>
+            <Value property="FiltrY_type"  type="number" >
+                4
+            </Value>
+            <Value property="FiltrY_freq"  type="number" >
+                1
+            </Value>
+            <Value property="FiltrY_reso"  type="number" >
+                0
+            </Value>
+            <Value property="FiltrY_env"  type="number" >
+                0.5
+            </Value>
+            <Value property="FiltrY_key"  type="number" >
+                4
+            </Value>
+            <Value property="FiltrY_velo"  type="number" >
+                0.5
+            </Value>
+            <Value property="FiltrZ_type"  type="number" >
+                4
+            </Value>
+            <Value property="FiltrZ_freq"  type="number" >
+                1
+            </Value>
+            <Value property="FiltrZ_reso"  type="number" >
+                0
+            </Value>
+            <Value property="FiltrZ_env"  type="number" >
+                0.5
+            </Value>
+            <Value property="FiltrZ_key"  type="number" >
+                4
+            </Value>
+            <Value property="FiltrZ_velo"  type="number" >
+                0.5
+            </Value>
+            <Value property="FiltrG_freq"  type="number" >
+                1
+            </Value>
+            <Value property="FiltrG_reso"  type="number" >
+                0
+            </Value>
+            <Value property="FiltrG_env"  type="number" >
+                0.5
+            </Value>
+            <Value property="FiltrG_key"  type="number" >
+                4
+            </Value>
+            <Value property="FiltrG_velo"  type="number" >
+                0.5
+            </Value>
+            <Value property="AEG_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="AEGX_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="AEGX_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="AEGX_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="AEGX_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="AEGX_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="AEGX_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="AEGY_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="AEGY_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="AEGY_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="AEGY_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="AEGY_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="AEGY_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="AEGZ_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="AEGZ_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="AEGZ_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="AEGZ_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="AEGZ_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="AEGZ_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="AEGG_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="AEGG_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="AEGG_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="AEGG_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="AEGG_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="AEGG_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="MEG_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="MEGX_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="MEGX_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="MEGX_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="MEGX_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="MEGX_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="MEGX_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="MEGY_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="MEGY_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="MEGY_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="MEGY_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="MEGY_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="MEGY_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="MEGZ_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="MEGZ_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="MEGZ_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="MEGZ_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="MEGZ_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="MEGZ_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="MEGG_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="MEGG_Decay"  type="number" >
+                0
+            </Value>
+            <Value property="MEGG_Bplevel"  type="number" >
+                1
+            </Value>
+            <Value property="MEGG_Slope"  type="number" >
+                0.6246738433837890625
+            </Value>
+            <Value property="MEGG_Sustain"  type="number" >
+                0.8912508487701416015625
+            </Value>
+            <Value property="MEGG_Release"  type="number" >
+                0.1660478115081787109375
+            </Value>
+            <Value property="LFO1_wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_rate"  type="number" >
+                0.6768229007720947265625
+            </Value>
+            <Value property="LFO1_sync_rate"  type="number" >
+                12
+            </Value>
+            <Value property="LFO2_wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_rate"  type="number" >
+                0.6768229007720947265625
+            </Value>
+            <Value property="LFO2_sync_rate"  type="number" >
+                12
+            </Value>
+            <Value property="LFO3_wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_rate"  type="number" >
+                0.6768229007720947265625
+            </Value>
+            <Value property="LFO3_sync_rate"  type="number" >
+                12
+            </Value>
+            <Value property="SeqVariation"  type="number" >
+                0
+            </Value>
+            <Value property="Seq_Length_A"  type="number" >
+                1
+            </Value>
+            <Value property="Rate_A"  type="number" >
+                9
+            </Value>
+            <Value property="Arp_Octave_A"  type="number" >
+                0
+            </Value>
+            <Value property="Mode_A"  type="number" >
+                0
+            </Value>
+            <Value property="ArpSeq_Restart_A"  type="number" >
+                0
+            </Value>
+            <Value property="SeqVelo_Abs_A"  type="number" >
+                0
+            </Value>
+            <Value property="Seq_Length_B"  type="number" >
+                1
+            </Value>
+            <Value property="Rate_B"  type="number" >
+                9
+            </Value>
+            <Value property="Arp_Octave_B"  type="number" >
+                0
+            </Value>
+            <Value property="Mode_B"  type="number" >
+                0
+            </Value>
+            <Value property="ArpSeq_Restart_B"  type="number" >
+                0
+            </Value>
+            <Value property="SeqVelo_Abs_B"  type="number" >
+                0
+            </Value>
+            <Value property="Seq_Length_C"  type="number" >
+                1
+            </Value>
+            <Value property="Rate_C"  type="number" >
+                9
+            </Value>
+            <Value property="Arp_Octave_C"  type="number" >
+                0
+            </Value>
+            <Value property="Mode_C"  type="number" >
+                0
+            </Value>
+            <Value property="ArpSeq_Restart_C"  type="number" >
+                0
+            </Value>
+            <Value property="SeqVelo_Abs_C"  type="number" >
+                0
+            </Value>
+            <Value property="Pat_01_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_02_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_03_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_04_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_05_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_06_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_07_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_08_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_09_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_10_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_11_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_12_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_13_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_14_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_15_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="Pat_16_Enable"  type="number" >
+                511
+            </Value>
+            <Value property="FX_source_trigger"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_1_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_2_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_3_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_4_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_5_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_6_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_7_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_8_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_9_Enable"  type="number" >
+                7
+            </Value>
+            <Value property="FX1_type"  type="number" >
+                0
+            </Value>
+            <Value property="FX1_on"  type="number" >
+                1
+            </Value>
+            <Value property="FX1_gain"  type="number" >
+                6
+            </Value>
+            <Value property="FX2_type"  type="number" >
+                0
+            </Value>
+            <Value property="FX2_on"  type="number" >
+                1
+            </Value>
+            <Value property="FX2_gain"  type="number" >
+                6
+            </Value>
+            <Value property="FX3_type"  type="number" >
+                11
+            </Value>
+            <Value property="FX3_on"  type="number" >
+                1
+            </Value>
+            <Value property="FX3_gain"  type="number" >
+                6
+            </Value>
+            <Value property="Flt_Freq_FX1"  type="number" >
+                1
+            </Value>
+            <Value property="Flt_Freq_FX2"  type="number" >
+                1
+            </Value>
+            <Value property="Flt_Freq_FX3"  type="number" >
+                1
+            </Value>
+            <Value property="Master_Volume"  type="number" >
+                0.79434108734130859375
+            </Value>
+            <Value property="Master_Width"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Master_Limiter"  type="number" >
+                0
+            </Value>
+            <Value property="Rama_version"  type="number" >
+                1
+            </Value>
+            <Value property="Mix_X_Y_src"  type="number" >
+                0
+            </Value>
+            <Value property="Mix_X_Y_depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mix_XY_Z_src"  type="number" >
+                0
+            </Value>
+            <Value property="Mix_XY_Z_depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="C1_select"  type="number" >
+                4
+            </Value>
+            <Value property="C2_select"  type="number" >
+                5
+            </Value>
+            <Value property="SVFX_key"  type="number" >
+                4
+            </Value>
+            <Value property="SVFY_key"  type="number" >
+                4
+            </Value>
+            <Value property="SVFZ_key"  type="number" >
+                4
+            </Value>
+            <Value property="FaderLed"  type="number" >
+                1
+            </Value>
+            <Value property="AEG_crv_atk"  type="number" >
+                0.5
+            </Value>
+            <Value property="AEG_crv_slp"  type="number" >
+                0.75
+            </Value>
+            <Value property="AEG_crv_rls"  type="number" >
+                0.9249999523162841796875
+            </Value>
+            <Value property="MEG_crv_atk"  type="number" >
+                0.5
+            </Value>
+            <Value property="MEG_crv_slp"  type="number" >
+                0.75
+            </Value>
+            <Value property="MEG_crv_rls"  type="number" >
+                0.9249999523162841796875
+            </Value>
+            <Value property="LFO1_delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_sync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_unipolar"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_retrig"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_sync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_retrig"  type="boolean" >
+                false
+            </Value>
+            <Value property="LFO2_unipolar"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_delay"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_sync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO3_retrig"  type="boolean" >
+                false
+            </Value>
+            <Value property="LFO3_unipolar"  type="number" >
+                0
+            </Value>
+            <Value property="ModMix_Switch"  type="number" >
+                0
+            </Value>
+            <Value property="Seq_Editor_Switch"  type="number" >
+                0
+            </Value>
+            <Value property="Xfade_Length"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Chord2Note"  type="number" >
+                16
+            </Value>
+            <Value property="Chord3Note"  type="number" >
+                19
+            </Value>
+            <Value property="Chord4Note"  type="number" >
+                24
+            </Value>
+            <Value property="Ghost_Brightness"  type="number" >
+                5
+            </Value>
+            <Value property="Swing_A"  type="number" >
+                0
+            </Value>
+            <Value property="Swing_B"  type="number" >
+                0
+            </Value>
+            <Value property="Swing_C"  type="number" >
+                0
+            </Value>
+            <Value property="Pat_NoteA01"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA02"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA03"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA04"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA05"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA06"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA07"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA08"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA09"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA10"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA11"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA12"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA13"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA14"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA15"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteA16"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_VeloA01"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA02"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA03"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA04"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA05"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA06"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA07"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA08"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA09"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA10"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA11"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA12"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA13"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA14"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA15"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloA16"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_GateA01"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA02"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA03"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA04"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA05"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA06"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA07"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA08"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA09"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA10"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA11"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA12"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA13"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA14"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA15"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateA16"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_NoteB01"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB02"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB03"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB04"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB05"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB06"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB07"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB08"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB09"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB10"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB11"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB12"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB13"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB14"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB15"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteB16"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_VeloB01"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB02"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB03"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB04"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB05"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB06"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB07"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB08"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB09"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB10"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB11"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB12"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB13"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB14"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB15"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloB16"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_GateB01"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB02"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB03"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB04"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB05"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB06"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB07"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB08"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB09"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB10"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB11"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB12"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB13"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB14"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB15"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateB16"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_NoteC01"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC02"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC03"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC04"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC05"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC06"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC07"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC08"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC09"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC10"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC11"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC12"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC13"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC14"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC15"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_NoteC16"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pat_VeloC01"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC02"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC03"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC04"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC05"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC06"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC07"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC08"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC09"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC10"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC11"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC12"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC13"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC14"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC15"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_VeloC16"  type="number" >
+                0.9842517375946044921875
+            </Value>
+            <Value property="Pat_GateC01"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC02"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC03"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC04"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC05"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC06"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC07"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC08"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC09"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC10"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC11"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC12"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC13"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC14"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC15"  type="number" >
+                5
+            </Value>
+            <Value property="Pat_GateC16"  type="number" >
+                5
+            </Value>
+            <Value property="PatEnable_Br"  type="number" >
+                16
+            </Value>
+            <Value property="CCPanel_select"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_1_Source"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_1_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_2_Source"  type="number" >
+                12
+            </Value>
+            <Value property="Mod_2_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_3_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_4_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_4_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_4_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_5_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_5_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_5_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_6_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_6_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_6_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_7_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_7_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_7_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_8_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_8_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_8_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_9_Source"  type="number" >
+                2
+            </Value>
+            <Value property="Mod_9_Depth"  type="number" >
+                0.17624744323098793
+            </Value>
+            <Value property="Mod_9_Dest"  type="number" >
+                7
+            </Value>
+            <Value property="ModEnable_Br"  type="number" >
+                16
+            </Value>
+            <Value property="OscX_out"  type="number" >
+                0
+            </Value>
+            <Value property="OscY_out"  type="number" >
+                0
+            </Value>
+            <Value property="OscZ_out"  type="number" >
+                0
+            </Value>
+            <Value property="FX1_out"  type="number" >
+                0
+            </Value>
+            <Value property="FX2_out"  type="number" >
+                0
+            </Value>
+            <Value property="FX1_nul"  type="number" >
+                1
+            </Value>
+            <Value property="FX2_nul"  type="number" >
+                1
+            </Value>
+            <Value property="FX3_nul"  type="number" >
+                1
+            </Value>
+            <Value property="EQ_LGain_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MGain_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MFreq_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MWid_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_HGain_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_OGain_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr_Rate_FX1"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Chr_Dept_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr_Voi_FX1"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Chr_Mod_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Chr_Mix_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_ARate_FX1"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Phs_Ssw_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Phs_SRate_FX1"  type="number" >
+                6
+            </Value>
+            <Value property="Phs_Cntr_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Dept_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Fb_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Sprd_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Phase_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Phs_Mix_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flng_Rate_FX1"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Flng_Dept_FX1"  type="number" >
+                0.25
+            </Value>
+            <Value property="Flng_Delay_FX1"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Flng_Phase_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Flng_Fb_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flng_Mix_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso_Hi_FX1"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_Mid_FX1"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_Low_FX1"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_HFreq_FX1"  type="number" >
+                0.6666698455810546875
+            </Value>
+            <Value property="Iso_LFreq_FX1"  type="number" >
+                0.3333299160003662109375
+            </Value>
+            <Value property="Comp_Mode_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Comp_Th_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp_Rat_FX1"  type="number" >
+                0.228911876678466796875
+            </Value>
+            <Value property="Comp_Atk_FX1"  type="number" >
+                0.25
+            </Value>
+            <Value property="Comp_Rls_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp_Gain_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Comp_Mix_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd_Drv_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd_Low_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd_High_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd_Hibp_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst_type_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_drv_FX1"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Dst_rect_FX1"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="Dst_low_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_high_FX1"  type="number" >
+                1
+            </Value>
+            <Value property="Dst_dry_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_wet_FX1"  type="number" >
+                0.57499980926513671875
+            </Value>
+            <Value property="Lofi_Freq_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lofi_Bit_FX1"  type="number" >
+                0.428571224212646484375
+            </Value>
+            <Value property="Lofi_Bias_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Lofi_Jitr_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Lofi_Mix_FX1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly_Atime_FX1"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Dly_Ssw_FX1"  type="number" >
+                1
+            </Value>
+            <Value property="Dly_Stime_FX1"  type="number" >
+                6
+            </Value>
+            <Value property="Dly_Damp_FX1"  type="number" >
+                0.8294818401336669921875
+            </Value>
+            <Value property="Dly_Fback_FX1"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="Dly_Rat_FX1"  type="number" >
+                50
+            </Value>
+            <Value property="Dly_Mode_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Dly_Mix_FX1"  type="number" >
+                0.25
+            </Value>
+            <Value property="Rvb_Mode_FX1"  type="number" >
+                4
+            </Value>
+            <Value property="Rvb_Time_FX1"  type="number" >
+                0.554487705230712890625
+            </Value>
+            <Value property="Rvb_Size_FX1"  type="number" >
+                0.6666698455810546875
+            </Value>
+            <Value property="Rvb_Pre_FX1"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Rvb_Damp_FX1"  type="number" >
+                1
+            </Value>
+            <Value property="Rvb_Mod_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb_Mix_FX1"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Flt_Mode_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Reso_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Lphp_FX1"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Smth_FX1"  type="number" >
+                0.25
+            </Value>
+            <Value property="EQ_LGain_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MGain_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MFreq_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MWid_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_HGain_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_OGain_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr_Rate_FX2"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Chr_Dept_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr_Voi_FX2"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Chr_Mod_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Chr_Mix_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_ARate_FX2"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Phs_Ssw_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Phs_SRate_FX2"  type="number" >
+                6
+            </Value>
+            <Value property="Phs_Cntr_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Dept_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Fb_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Sprd_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Phase_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Phs_Mix_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flng_Rate_FX2"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Flng_Dept_FX2"  type="number" >
+                0.25
+            </Value>
+            <Value property="Flng_Delay_FX2"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Flng_Phase_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Flng_Fb_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flng_Mix_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso_Hi_FX2"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_Mid_FX2"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_Low_FX2"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_HFreq_FX2"  type="number" >
+                0.6666698455810546875
+            </Value>
+            <Value property="Iso_LFreq_FX2"  type="number" >
+                0.3333299160003662109375
+            </Value>
+            <Value property="Comp_Mode_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Comp_Th_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp_Rat_FX2"  type="number" >
+                0.228911876678466796875
+            </Value>
+            <Value property="Comp_Atk_FX2"  type="number" >
+                0.25
+            </Value>
+            <Value property="Comp_Rls_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp_Gain_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Comp_Mix_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd_Drv_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd_Low_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd_High_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd_Hibp_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst_type_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_drv_FX2"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Dst_rect_FX2"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="Dst_low_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_high_FX2"  type="number" >
+                1
+            </Value>
+            <Value property="Dst_dry_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_wet_FX2"  type="number" >
+                0.57499980926513671875
+            </Value>
+            <Value property="Lofi_Freq_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lofi_Bit_FX2"  type="number" >
+                0.428571224212646484375
+            </Value>
+            <Value property="Lofi_Bias_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Lofi_Jitr_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Lofi_Mix_FX2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly_Atime_FX2"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Dly_Ssw_FX2"  type="number" >
+                1
+            </Value>
+            <Value property="Dly_Stime_FX2"  type="number" >
+                6
+            </Value>
+            <Value property="Dly_Damp_FX2"  type="number" >
+                0.8294818401336669921875
+            </Value>
+            <Value property="Dly_Fback_FX2"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="Dly_Rat_FX2"  type="number" >
+                50
+            </Value>
+            <Value property="Dly_Mode_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Dly_Mix_FX2"  type="number" >
+                0.25
+            </Value>
+            <Value property="Rvb_Mode_FX2"  type="number" >
+                4
+            </Value>
+            <Value property="Rvb_Time_FX2"  type="number" >
+                0.554487705230712890625
+            </Value>
+            <Value property="Rvb_Size_FX2"  type="number" >
+                0.6666698455810546875
+            </Value>
+            <Value property="Rvb_Pre_FX2"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Rvb_Damp_FX2"  type="number" >
+                1
+            </Value>
+            <Value property="Rvb_Mod_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb_Mix_FX2"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Flt_Mode_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Reso_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Lphp_FX2"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Smth_FX2"  type="number" >
+                0.25
+            </Value>
+            <Value property="EQ_LGain_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MGain_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MFreq_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_MWid_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_HGain_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="EQ_OGain_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr_Rate_FX3"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Chr_Dept_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr_Voi_FX3"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Chr_Mod_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Chr_Mix_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_ARate_FX3"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Phs_Ssw_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Phs_SRate_FX3"  type="number" >
+                6
+            </Value>
+            <Value property="Phs_Cntr_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Dept_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Fb_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Sprd_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs_Phase_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Phs_Mix_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flng_Rate_FX3"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Flng_Dept_FX3"  type="number" >
+                0.25
+            </Value>
+            <Value property="Flng_Delay_FX3"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Flng_Phase_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Flng_Fb_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flng_Mix_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso_Hi_FX3"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_Mid_FX3"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_Low_FX3"  type="number" >
+                1
+            </Value>
+            <Value property="Iso_HFreq_FX3"  type="number" >
+                0.6666698455810546875
+            </Value>
+            <Value property="Iso_LFreq_FX3"  type="number" >
+                0.3333299160003662109375
+            </Value>
+            <Value property="Comp_Mode_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Comp_Th_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp_Rat_FX3"  type="number" >
+                0.228911876678466796875
+            </Value>
+            <Value property="Comp_Atk_FX3"  type="number" >
+                0.25
+            </Value>
+            <Value property="Comp_Rls_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comp_Gain_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Comp_Mix_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd_Drv_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd_Low_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd_High_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd_Hibp_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst_type_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_drv_FX3"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Dst_rect_FX3"  type="number" >
+                0.1499998569488525390625
+            </Value>
+            <Value property="Dst_low_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_high_FX3"  type="number" >
+                1
+            </Value>
+            <Value property="Dst_dry_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Dst_wet_FX3"  type="number" >
+                0.57499980926513671875
+            </Value>
+            <Value property="Lofi_Freq_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lofi_Bit_FX3"  type="number" >
+                0.428571224212646484375
+            </Value>
+            <Value property="Lofi_Bias_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Lofi_Jitr_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Lofi_Mix_FX3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly_Atime_FX3"  type="number" >
+                0.25169277191162109375
+            </Value>
+            <Value property="Dly_Ssw_FX3"  type="number" >
+                1
+            </Value>
+            <Value property="Dly_Stime_FX3"  type="number" >
+                6
+            </Value>
+            <Value property="Dly_Damp_FX3"  type="number" >
+                0.8294818401336669921875
+            </Value>
+            <Value property="Dly_Fback_FX3"  type="number" >
+                0.599999904632568359375
+            </Value>
+            <Value property="Dly_Rat_FX3"  type="number" >
+                50
+            </Value>
+            <Value property="Dly_Mode_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Dly_Mix_FX3"  type="number" >
+                0.25
+            </Value>
+            <Value property="Rvb_Mode_FX3"  type="number" >
+                4
+            </Value>
+            <Value property="Rvb_Time_FX3"  type="number" >
+                0.554487705230712890625
+            </Value>
+            <Value property="Rvb_Size_FX3"  type="number" >
+                0.6666698455810546875
+            </Value>
+            <Value property="Rvb_Pre_FX3"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Rvb_Damp_FX3"  type="number" >
+                1
+            </Value>
+            <Value property="Rvb_Mod_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb_Mix_FX3"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="Flt_Mode_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Reso_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Lphp_FX3"  type="number" >
+                0
+            </Value>
+            <Value property="Flt_Smth_FX3"  type="number" >
+                0.25
+            </Value>
+            <Value property="Chr1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Chr3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Chr3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chr3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Phs3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Phs3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phs3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Fln3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Fln3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Fln3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Equ3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Equ3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Equ3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Iso3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Iso3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Iso3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Cmp3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Cmp3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Ovd3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Ovd3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dst3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dst3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dst3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Lof3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Lof3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lof3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Dly3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Dly3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Dly3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Rvb3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Rvb3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt1_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt1_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt1_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt1_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt1_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt1_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt1_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt1_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt1_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt2_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt2_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt2_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt2_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt2_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt2_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt2_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt2_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt2_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt3_Mod1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt3_Mod1_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt3_Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt3_Mod2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt3_Mod2_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt3_Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Flt3_Mod3_Source"  type="number" >
+                0
+            </Value>
+            <Value property="Flt3_Mod3_Amt"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flt3_Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="blob_to_load"  type="number" >
+                1
+            </Value>
+        </Object>
+        <Object name="device_host" >
+            <Value property="sample_context"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+        <Object name="user_samples/0" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/1" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/2" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+    </Properties>
+</JukeboxPatch>
