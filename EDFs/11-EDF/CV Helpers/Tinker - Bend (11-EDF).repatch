@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="com.pepinhazan.Tinker"  deviceVersion="2.0" >
+    <DeviceNameInEnglish>
+        Tinker CV Math Assistant
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="tempo_sync"  type="boolean" >
+                true
+            </Value>
+            <Value property="rate_free"  type="number" >
+                0.5
+            </Value>
+            <Value property="rate_synced"  type="number" >
+                11
+            </Value>
+            <Value property="trigger_mode_t1"  type="number" >
+                0
+            </Value>
+            <Value property="tempo_sync_t2"  type="boolean" >
+                false
+            </Value>
+            <Value property="duration_free_t2"  type="number" >
+                0.5
+            </Value>
+            <Value property="rate_synced_t2"  type="number" >
+                11
+            </Value>
+            <Value property="trigger_mode_t2"  type="number" >
+                0
+            </Value>
+            <Value property="formula_text"  type="string" >
+                282835382E3032333132313032343332393939362B412A313237292A302E363338313430393039383737363235292531
+            </Value>
+            <Value property="knob_k"  type="number" >
+                0
+            </Value>
+            <Value property="switch_s"  type="boolean" >
+                false
+            </Value>
+            <Value property="m_to_trigger"  type="number" >
+                1
+            </Value>
+            <Value property="label_k"  type="string" />
+            <Value property="label_s"  type="string" />
+            <Value property="description"  type="string" >
+                413A204F726967696E616C204E6F74652043562C20526573756C743A2050697463682042656E6420285365742072616E676520746F20312073656D69746F6E6529
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

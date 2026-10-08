@@ -19,11 +19,13 @@ uv run generate-presets
 ### Contents
 
 This pack contains presets in:
-- 14edo, 15edo, 16edo, 17edo, 19edo, 22edo, 24edo, 27edo, 29edo,
+- 14edo, 15edo, 16edo, 17edo, 19edo, 22edo, 24edo, 26edo, 27edo, 29edo,
 <br>31edo, 34edo, 36edo, 41edo, 43edo, 53edo
 - 44ed6 (~17edo), 49ed6 (~19edo), 57ed6 (~22edo), 70ed6 (~27edo), 88ed6 (~34edo),
 - 26edt (double BP), 39edt (triple BP), 22edt (~14edo), 27edt (~~17edo), 30edt (~~19edo), 
 <br>43edt (~~27edo), 54edt (~~34edo)
+- 8edf, 9edf, 10edf, 11edf, 12edf, 13edf, 16edf, 17edf, 18edf, 20edf
+- 31ed4, 41ed4, 41ed8, 53ed4, 53ed8
 - Wendy Carlos' Alpha, Beta & Gamma
 - 38zpi, 39zpi, 42zpi, 45zpi, 47zpi, 51zpi, 53zpi, 56zpi, 59zpi, 61zpi, 65zpi, 70zpi, 
  71zpi, 75zpi, 80zpi, 84zpi, 100zpi, 106zpi, 116zpi, 127zpi, 137zpi, 144zpi, 184zpi, 

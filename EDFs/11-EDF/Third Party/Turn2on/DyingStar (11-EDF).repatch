@@ -1,0 +1,857 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        DyingStar Polysynth Machine
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="ru.turn2on.DyingStar"  deviceVersion="1.3.1" >
+        <Object name="custom_properties" >
+            <Value property="Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Octave"  type="number" >
+                2
+            </Value>
+            <Value property="pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch_Range"  type="number" >
+                1
+            </Value>
+            <Value property="Volume"  type="number" >
+                0.6309568881988525390625
+            </Value>
+            <Value property="Porta"  type="number" >
+                1
+            </Value>
+            <Value property="Sound_Quality"  type="number" >
+                1
+            </Value>
+            <Value property="Sustain_Pedal"  type="number" >
+                1
+            </Value>
+            <Value property="Osc1_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Osc2_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Osc3_Mix"  type="number" >
+                0.50199985504150390625
+            </Value>
+            <Value property="Sub_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc1_Tune2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Zone_Start"  type="number" >
+                0
+            </Value>
+            <Value property="Zone"  type="number" >
+                0
+            </Value>
+            <Value property="Osc1_KbTracking"  type="number" >
+                0.6595352274694062
+            </Value>
+            <Value property="Pan1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan1_wd"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Osc1"  type="number" >
+                1
+            </Value>
+            <Value property="Osc2_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc2_Tune2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Zone2_Start"  type="number" >
+                0
+            </Value>
+            <Value property="Zone2"  type="number" >
+                0
+            </Value>
+            <Value property="Osc2_KbTracking"  type="number" >
+                0.6595352274694062
+            </Value>
+            <Value property="Pan2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan2_wd"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Osc2"  type="number" >
+                1
+            </Value>
+            <Value property="Osc3_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Osc3_Tune2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Zone3_Start"  type="number" >
+                0
+            </Value>
+            <Value property="Zone3"  type="number" >
+                0
+            </Value>
+            <Value property="SubOsc_KbTracking"  type="number" >
+                0.6595352274694062
+            </Value>
+            <Value property="Pan3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan3_wd"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Osc3"  type="number" >
+                1
+            </Value>
+            <Value property="Sub_Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Sub_Tune2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Zone4_Start"  type="number" >
+                0
+            </Value>
+            <Value property="Zone4"  type="number" >
+                0
+            </Value>
+            <Value property="Pan4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan4_wd"  type="number" >
+                0.666666507720947265625
+            </Value>
+            <Value property="Osc4"  type="number" >
+                1
+            </Value>
+            <Value property="Filter1_Cutoff"  type="number" >
+                0.548999786376953125
+            </Value>
+            <Value property="Filter1_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter1_Env"  type="number" >
+                1
+            </Value>
+            <Value property="Filter1_EnvRes"  type="number" >
+                1
+            </Value>
+            <Value property="Filter1_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Filter1_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="Shape1_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Shaper1_Drive"  type="number" >
+                0.3329999446868896484375
+            </Value>
+            <Value property="Spread1_Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Filter2_Cutoff"  type="number" >
+                0.548999786376953125
+            </Value>
+            <Value property="Filter2_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter2_Env"  type="number" >
+                1
+            </Value>
+            <Value property="Filter2_EnvRes"  type="number" >
+                1
+            </Value>
+            <Value property="Filter2_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Filter2_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="Shape2_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Shaper2_Drive"  type="number" >
+                0.3329999446868896484375
+            </Value>
+            <Value property="Spread2_Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Filter3_Cutoff"  type="number" >
+                0.548999786376953125
+            </Value>
+            <Value property="Filter3_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Filter3_Env"  type="number" >
+                1
+            </Value>
+            <Value property="Filter3_EnvRes"  type="number" >
+                1
+            </Value>
+            <Value property="Filter3_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Filter3_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="Shape3_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Shaper3_Drive"  type="number" >
+                0.3329999446868896484375
+            </Value>
+            <Value property="Spread3_Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Filter4_Cutoff"  type="number" >
+                0.548999786376953125
+            </Value>
+            <Value property="Filter4_Reso"  type="number" >
+                0
+            </Value>
+            <Value property="Shape4_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="Shaper4_Drive"  type="number" >
+                0.3329999446868896484375
+            </Value>
+            <Value property="Spread4_Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Comb_Tune"  type="number" >
+                0.3719999790191650390625
+            </Value>
+            <Value property="Comb_Keytrack"  type="number" >
+                0
+            </Value>
+            <Value property="Comb_Feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="Comb_Damping"  type="number" >
+                1
+            </Value>
+            <Value property="Comb_Stiffness"  type="number" >
+                0
+            </Value>
+            <Value property="Comb_Mix"  type="number" >
+                1
+            </Value>
+            <Value property="Osc1_Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Osc2_Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Osc3_Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Osc4_Comb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Flw_at"  type="number" >
+                0
+            </Value>
+            <Value property="Flw_dest"  type="number" >
+                1
+            </Value>
+            <Value property="Comb_src"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Time"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Depth"  type="number" >
+                1
+            </Value>
+            <Value property="Glide_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Destination"  type="number" >
+                1
+            </Value>
+            <Value property="Glide_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Glide_Invert"  type="number" >
+                0
+            </Value>
+            <Value property="Amp_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Amp_Hold"  type="number" >
+                0
+            </Value>
+            <Value property="Amp_Decay"  type="number" >
+                0.5039370059967041015625
+            </Value>
+            <Value property="Amp_Sustain"  type="number" >
+                1
+            </Value>
+            <Value property="Amp_Release"  type="number" >
+                0.2519683837890625
+            </Value>
+            <Value property="Amp_At_crv"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp_Dc_crv"  type="number" >
+                0.94999980926513671875
+            </Value>
+            <Value property="Filter_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Filter_Hold"  type="number" >
+                0
+            </Value>
+            <Value property="Filter_Decay"  type="number" >
+                0.5039370059967041015625
+            </Value>
+            <Value property="Filter_Sustain"  type="number" >
+                0.5039370059967041015625
+            </Value>
+            <Value property="Filter_Release"  type="number" >
+                0.2519683837890625
+            </Value>
+            <Value property="Filter_At_crv"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter_Dc_crv"  type="number" >
+                0.875
+            </Value>
+            <Value property="LFO1_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Rate"  type="number" >
+                0.499949932098388671875
+            </Value>
+            <Value property="Rate1"  type="number" >
+                10
+            </Value>
+            <Value property="LFO1_Depth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Destination"  type="number" >
+                3
+            </Value>
+            <Value property="LFO1_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Phase"  type="number" >
+                0
+            </Value>
+            <Value property="LFO1_Retrigger"  type="number" >
+                1
+            </Value>
+            <Value property="LFO1_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Wave"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Rate"  type="number" >
+                0.499949932098388671875
+            </Value>
+            <Value property="Rate2"  type="number" >
+                10
+            </Value>
+            <Value property="LFO2_Depth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Destination"  type="number" >
+                3
+            </Value>
+            <Value property="LFO2_Smooth"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Phase"  type="number" >
+                0
+            </Value>
+            <Value property="LFO2_Retrigger"  type="number" >
+                1
+            </Value>
+            <Value property="LFO2_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv1_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv1_Hold"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv1_Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="ModEnv1_Sustain"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv1_Release"  type="number" >
+                0.25
+            </Value>
+            <Value property="ModEnv1_At_crv"  type="number" >
+                0.5
+            </Value>
+            <Value property="ModEnv1_Dc_crv"  type="number" >
+                0.75
+            </Value>
+            <Value property="ModEnv1_Amt"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv2_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv2_Hold"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv2_Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="ModEnv2_Sustain"  type="number" >
+                0
+            </Value>
+            <Value property="ModEnv2_Release"  type="number" >
+                0.25
+            </Value>
+            <Value property="ModEnv2_At_crv"  type="number" >
+                0.5
+            </Value>
+            <Value property="ModEnv2_Dc_crv"  type="number" >
+                0.75
+            </Value>
+            <Value property="ModEnv2_Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Mod1_src"  type="number" >
+                16
+            </Value>
+            <Value property="Mod1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod2_src"  type="number" >
+                16
+            </Value>
+            <Value property="Mod2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod3_src"  type="number" >
+                16
+            </Value>
+            <Value property="Mod3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod4_src"  type="number" >
+                16
+            </Value>
+            <Value property="Mod4_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Mod1_Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Mod2_Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Mod3_Amt"  type="number" >
+                0
+            </Value>
+            <Value property="Mod4_Amt"  type="number" >
+                0
+            </Value>
+            <Value property="CompressorA"  type="boolean" >
+                false
+            </Value>
+            <Value property="CompressorB"  type="boolean" >
+                false
+            </Value>
+            <Value property="CompressorC"  type="boolean" >
+                false
+            </Value>
+            <Value property="CompressorD"  type="boolean" >
+                false
+            </Value>
+            <Value property="Compressor_Threshold"  type="number" >
+                0.5
+            </Value>
+            <Value property="Compressor_Ratio"  type="number" >
+                0.3684208393096923828125
+            </Value>
+            <Value property="Compressor_Knee"  type="number" >
+                0
+            </Value>
+            <Value property="Compressor_Slam"  type="boolean" >
+                false
+            </Value>
+            <Value property="Compressor_Attack"  type="number" >
+                0.5
+            </Value>
+            <Value property="Compressor_Release"  type="number" >
+                0.5
+            </Value>
+            <Value property="Compressor_Output"  type="number" >
+                0
+            </Value>
+            <Value property="Limiter1"  type="boolean" >
+                false
+            </Value>
+            <Value property="Limiter2"  type="boolean" >
+                false
+            </Value>
+            <Value property="Limiter3"  type="boolean" >
+                false
+            </Value>
+            <Value property="Limiter4"  type="boolean" >
+                false
+            </Value>
+            <Value property="Limiter_Release"  type="number" >
+                0
+            </Value>
+            <Value property="Limiter_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="PhaserA"  type="boolean" >
+                false
+            </Value>
+            <Value property="PhaserB"  type="boolean" >
+                false
+            </Value>
+            <Value property="PhaserC"  type="boolean" >
+                false
+            </Value>
+            <Value property="PhaserD"  type="boolean" >
+                false
+            </Value>
+            <Value property="Phaser_Rate"  type="number" >
+                0.4949493408203125
+            </Value>
+            <Value property="Phaser_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phaser_Feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phaser_Center"  type="number" >
+                0.5
+            </Value>
+            <Value property="Phaser_Spread"  type="number" >
+                0
+            </Value>
+            <Value property="Phaser_Mix"  type="number" >
+                0.5
+            </Value>
+            <Value property="OverdriveA"  type="boolean" >
+                false
+            </Value>
+            <Value property="OverdriveB"  type="boolean" >
+                false
+            </Value>
+            <Value property="OverdriveC"  type="boolean" >
+                false
+            </Value>
+            <Value property="OverdriveD"  type="boolean" >
+                false
+            </Value>
+            <Value property="Overdrive_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Overdrive_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Overdrive_Tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="Overdrive_Presence"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_2_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_3_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_4_Drive"  type="number" >
+                0.5
+            </Value>
+            <Value property="Distortion_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_2_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_3_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_4_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion2"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion3"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion4"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion2_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion3_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion4_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_LC1"  type="number" >
+                0
+            </Value>
+            <Value property="Distortion_HC1"  type="number" >
+                1
+            </Value>
+            <Value property="LoFi"  type="boolean" >
+                false
+            </Value>
+            <Value property="LoFi_Rate"  type="number" >
+                0.5
+            </Value>
+            <Value property="LoFi_Jitter"  type="number" >
+                0
+            </Value>
+            <Value property="LoFi_Mix"  type="number" >
+                1
+            </Value>
+            <Value property="Chorus"  type="boolean" >
+                false
+            </Value>
+            <Value property="Chorus_Rate"  type="number" >
+                0
+            </Value>
+            <Value property="Chorus_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chorus_Delay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chorus_Voices"  type="number" >
+                1
+            </Value>
+            <Value property="Chorus_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Flanger"  type="boolean" >
+                false
+            </Value>
+            <Value property="Flanger_Rate"  type="number" >
+                0.2492492198944091796875
+            </Value>
+            <Value property="Flanger_Depth"  type="number" >
+                0.06666660308837890625
+            </Value>
+            <Value property="Flanger_Delay"  type="number" >
+                0.0083332061767578125
+            </Value>
+            <Value property="Flanger_Feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="Flanger_Phase"  type="number" >
+                0
+            </Value>
+            <Value property="Flanger_Mix"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay"  type="boolean" >
+                false
+            </Value>
+            <Value property="Delay_Time"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Sync"  type="number" >
+                1
+            </Value>
+            <Value property="Delay_Feedback"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Delay_Ratio"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Damping"  type="number" >
+                1
+            </Value>
+            <Value property="Delay_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Delay_TimeBt"  type="number" >
+                4
+            </Value>
+            <Value property="Reverb"  type="boolean" >
+                false
+            </Value>
+            <Value property="Reverb_Time"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb_Pre_Delay"  type="number" >
+                0.0799999237060546875
+            </Value>
+            <Value property="Reverb_Damping"  type="number" >
+                1
+            </Value>
+            <Value property="Reverb_LC"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb_HC"  type="number" >
+                0.698999881744384765625
+            </Value>
+            <Value property="Reverb_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="StatA"  type="boolean" >
+                false
+            </Value>
+            <Value property="StatB"  type="boolean" >
+                false
+            </Value>
+            <Value property="StatC"  type="boolean" >
+                false
+            </Value>
+            <Value property="StatD"  type="boolean" >
+                false
+            </Value>
+            <Value property="Stat_Rev_Decay"  type="number" >
+                0.501186847686767578125
+            </Value>
+            <Value property="popup_button"  type="number" >
+                0
+            </Value>
+            <Value property="ConvoDecay"  type="number" >
+                0.501186847686767578125
+            </Value>
+            <Value property="ConvoMix"  type="number" >
+                0.19999980926513671875
+            </Value>
+            <Value property="ConvoDelay"  type="number" >
+                0
+            </Value>
+            <Value property="ConvoWidth"  type="number" >
+                0.5
+            </Value>
+            <Value property="End_Filter_Mode"  type="number" >
+                4
+            </Value>
+            <Value property="End_Filter_Cutoff"  type="number" >
+                0
+            </Value>
+            <Value property="End_Filter_Resonance"  type="number" >
+                0
+            </Value>
+            <Value property="LFO_Wheel_Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="Frequency_Wheel_Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="Resonance_Wheel_Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan1_swap"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pan2_swap"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pan3_swap"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pan4_swap"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pan1_inv"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pan2_inv"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pan3_inv"  type="boolean" >
+                false
+            </Value>
+            <Value property="Pan4_inv"  type="boolean" >
+                false
+            </Value>
+            <Value property="Vel_1A"  type="number" >
+                0
+            </Value>
+            <Value property="Vel_2A"  type="number" >
+                0
+            </Value>
+            <Value property="Vel_3A"  type="number" >
+                0
+            </Value>
+            <Value property="Amt_1A"  type="number" >
+                0
+            </Value>
+            <Value property="Amt_2A"  type="number" >
+                0
+            </Value>
+            <Value property="Amt_3A"  type="number" >
+                0
+            </Value>
+            <Value property="Post_Filter1_Mode"  type="number" >
+                1
+            </Value>
+            <Value property="Post_Filter2_Mode"  type="number" >
+                1
+            </Value>
+            <Value property="Post_Filter1_Cutoff"  type="number" >
+                1
+            </Value>
+            <Value property="Post_Filter1_Resonance"  type="number" >
+                0
+            </Value>
+            <Value property="Post_Filter2_Cutoff"  type="number" >
+                1
+            </Value>
+            <Value property="Post_Filter2_Resonance"  type="number" >
+                0
+            </Value>
+            <Value property="Amp_Velocity"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mono"  type="number" >
+                0
+            </Value>
+            <Value property="Post_Filter_Sel"  type="number" >
+                0
+            </Value>
+            <Value property="PF1_Onoff"  type="boolean" >
+                false
+            </Value>
+            <Value property="PF2_Onoff"  type="boolean" >
+                false
+            </Value>
+            <Value property="blob_to_load"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

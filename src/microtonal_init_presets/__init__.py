@@ -4,9 +4,7 @@ from pathlib import Path
 from jinja2 import Environment, FileSystemLoader
 
 from microtonal_init_presets.lib import TEMPLATE_HELPERS
-from config import Carlos, EDOs, EDTs, ED6s, ZPIs, FILTER_KEYTRK_OPTIONS
-
-_ = (EDOs, EDTs, ED6s, Carlos, ZPIs)  # used in eval
+from config import Carlos, EDOs, EDFs, EDXs, ZPIs, FILTER_KEYTRK_OPTIONS
 
 loader = FileSystemLoader("templates")
 env = Environment(loader = loader)
@@ -16,13 +14,14 @@ templates = list(map(
 
 
 def generate_tunings (
-    tuning_group,  tuning_f,  harmonic = 2,
-    get_x = lambda x: x,
-    monopoly = lambda x: (8/x) - (1/6),
+    tuning_group, tuning_set, harmonic = 2,
+    get_x = lambda x: x, tuning_f = None
 ):
-    log2h12 = log2(harmonic) * 12
-    for x in eval(tuning_group):
-        tuning = tuning_f(x)
+    log2h = log2(harmonic)
+    log2h12 = log2h * 12
+    monopoly = lambda x: log2h * (8/x) - (1/6)
+    for x in tuning_set:
+        tuning = tuning_f(x) if tuning_f else f"{x}-{tuning_group[:3]}"
         tracking = log2h12 / get_x(x)
         inv_tracking = get_x(x) / (log2h12)
         x = get_x(x)
@@ -53,29 +52,17 @@ def generate_tunings (
 
 
 def main() -> None:
+    generate_tunings ("EDFs", EDFs, harmonic = 3/2)
+    generate_tunings ("EDOs", EDOs)
+    for key, val in EDXs.items():
+        generate_tunings (f"ED{key}s", val, harmonic=key)
     generate_tunings (
-        "EDOs",
-        lambda x: f"{x}-EDO"
-    )
-    generate_tunings (
-        "EDTs",
-        lambda x: f"{x}-EDT",
-        harmonic = 3,
-        monopoly = (lambda x: log2(3) * (8 / x) - (1/6)),
-    )
-    generate_tunings (
-        "ED6s",
-        lambda x: f"{x}-ED6",
-        harmonic = 6,
-        monopoly = (lambda x: log2(6) * (8 / x) - (1/6)),
-    )
-    generate_tunings (
-        "ZPIs",
-        lambda t: f"{t[0]}zpi",
+        "ZPIs", ZPIs,
+        tuning_f = lambda t: f"{t[0]}zpi",
         get_x = (lambda t: t[1]),
     )
     generate_tunings (
-        "Carlos",
-        lambda t: t[0],
+        "Carlos", Carlos,
+        tuning_f = lambda t: t[0],
         get_x = (lambda t: t[1]),
     )

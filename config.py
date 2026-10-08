@@ -1,25 +1,35 @@
+EDFs = [
+    *range(8, 14),     
+    16, 17, 18, 20,
+]
+
 EDOs = [
     24, 36,      # extended 12TET
-    14, 15, 16,  # xenharmonic
+    14, 15, 16, 26, # xenharmonic
     17, 22, 27,  # superpyth
     19, 31, 43,  # meantone
     29,          # good fifth
     34, 41, 53,  # approximate JI
 ]
 
-EDTs = [
-    22,      # stretched 14EDO
-    26, 39,  # extended Bohlen-Pierce
-    27, 54,  # stretched 17EDO, 34EDO
-    30, 43   # stretched 19EDO, compressed 27EDO
-]
+EDXs = {
+    4: [ 31, 41, 53 ],
+    8: [ 41, 53 ],
 
-# splits error between oct & tritave; closer to zpi
-ED6s = [
-    49,     # stretched 19EDO
-    44, 88, # compressed 17EDO, 34EDO
-    57, 70  # compressed 22EDO, 27EDO
-]
+    3: [
+        22,      # stretched 14EDO
+        26, 39,  # extended Bohlen-Pierce
+        27, 54,  # stretched 17EDO, 34EDO
+        30, 43   # stretched 19EDO, compressed 27EDO
+    ],
+
+    # splits error between oct & tritave; closer to zpi
+    6: [
+        49,     # stretched 19EDO
+        44, 88, # compressed 17EDO, 34EDO
+        57, 70  # compressed 22EDO, 27EDO
+    ]
+}
 
 # en.xen.wiki/w/Zeta_peak_index
 ZPIs = [ # steps/oct           # height intgrl gap
@@ -54,11 +64,12 @@ Carlos = [
     ("Beta" , 18.809),
     ("Gamma", 34.188),
 ]
+    # ("88cET", 13.6364)
 
 SHOULD_KEYTRACK_EXTRA = False
 
 FILTER_KEYTRK_OPTIONS = [
     (0,   "Zero"),
-    (0.5, "Half"),
+    # (0.5, "Half"),
     (1,   "Full"),
 ]

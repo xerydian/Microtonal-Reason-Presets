@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="se.ekssperimentalsounds.BitSynthzr"  deviceVersion="1.0" >
+    <DeviceNameInEnglish>
+        BitSynthzr
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Volume"  type="number" >
+                0.5
+            </Value>
+            <Value property="Velocity_Amount"  type="number" >
+                0
+            </Value>
+            <Value property="Quality"  type="number" >
+                2
+            </Value>
+            <Value property="Tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG1_Source"  type="number" >
+                0
+            </Value>
+            <Value property="SG1_BitsRes"  type="number" >
+                1
+            </Value>
+            <Value property="SG1_Freq_Lo"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG1_Freq_Mid"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG1_Freq_Hi"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG1_FreqClock_Lo"  type="number" >
+                4
+            </Value>
+            <Value property="SG1_FreqClock_Mid"  type="number" >
+                15
+            </Value>
+            <Value property="SG1_FreqClock_Hi"  type="number" >
+                36
+            </Value>
+            <Value property="SG1_Range"  type="number" >
+                2
+            </Value>
+            <Value property="SG1_FreqMode"  type="number" >
+                1
+            </Value>
+            <Value property="SG1_Track"  type="number" >
+                0.9390243902439024
+            </Value>
+            <Value property="SG1_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="SG1_Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG1_Sustain"  type="number" >
+                1
+            </Value>
+            <Value property="SG1_Level"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG1_Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG2_Source"  type="number" >
+                0
+            </Value>
+            <Value property="SG2_BitsRes"  type="number" >
+                1
+            </Value>
+            <Value property="SG2_Freq_Lo"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG2_Freq_Mid"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG2_Freq_Hi"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG2_FreqClock_Lo"  type="number" >
+                4
+            </Value>
+            <Value property="SG2_FreqClock_Mid"  type="number" >
+                15
+            </Value>
+            <Value property="SG2_FreqClock_Hi"  type="number" >
+                36
+            </Value>
+            <Value property="SG2_Range"  type="number" >
+                2
+            </Value>
+            <Value property="SG2_FreqMode"  type="number" >
+                1
+            </Value>
+            <Value property="SG2_Track"  type="number" >
+                0.9390243902439024
+            </Value>
+            <Value property="SG2_Attack"  type="number" >
+                0
+            </Value>
+            <Value property="SG2_Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG2_Sustain"  type="number" >
+                1
+            </Value>
+            <Value property="SG2_Level"  type="number" >
+                0.5
+            </Value>
+            <Value property="SG2_Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Bits"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Freq"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Level"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Pan"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Bits_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Freq_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Level_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Pan_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Time_Free"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Time_Sync"  type="number" >
+                5
+            </Value>
+            <Value property="Delay_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Delay_Tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="Delay_Feedback"  type="number" >
+                0.2999999523162841796875
+            </Value>
+            <Value property="Delay_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Delay_PingPong"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb_Decay"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb_Character"  type="number" >
+                0.5
+            </Value>
+            <Value property="Reverb_Mix"  type="number" >
+                0
+            </Value>
+            <Value property="Glitch"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_Shape"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_Destination"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Rate_Free"  type="number" >
+                0.44999980926513671875
+            </Value>
+            <Value property="Mod_Rate_Sync"  type="number" >
+                7
+            </Value>
+            <Value property="Mod_Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_Polarity"  type="number" >
+                1
+            </Value>
+            <Value property="OP_Input1"  type="number" >
+                0
+            </Value>
+            <Value property="OP_Input2"  type="number" >
+                0
+            </Value>
+            <Value property="OP_Mode"  type="number" >
+                0
+            </Value>
+            <Value property="OP_Depth"  type="number" >
+                0
+            </Value>
+            <Value property="Seq_Power"  type="number" >
+                1
+            </Value>
+            <Value property="Seq_Polarity"  type="number" >
+                1
+            </Value>
+            <Value property="SeqLane1_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="SeqLane2_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="SeqLane3_Dest"  type="number" >
+                0
+            </Value>
+            <Value property="Seq_Trig"  type="number" >
+                0
+            </Value>
+            <Value property="Seq_L1_Steps"  type="number" >
+                15
+            </Value>
+            <Value property="Seq_L2_Steps"  type="number" >
+                15
+            </Value>
+            <Value property="Seq_L3_Steps"  type="number" >
+                15
+            </Value>
+            <Value property="Seq_L1_Speed"  type="number" >
+                7
+            </Value>
+            <Value property="Seq_L2_Speed"  type="number" >
+                7
+            </Value>
+            <Value property="Seq_L3_Speed"  type="number" >
+                7
+            </Value>
+            <Value property="Seq_MasterReset"  type="number" >
+                63
+            </Value>
+            <Value property="SeqL1T_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_3"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_4"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_5"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_6"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_7"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_8"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_9"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1T_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_3"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_4"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_5"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_6"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_7"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_8"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_9"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL1B_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_3"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_4"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_5"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_6"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_7"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_8"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_9"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL2_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_1"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_2"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_3"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_4"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_5"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_6"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_7"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_8"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_9"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_10"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_11"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_12"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_13"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_14"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_15"  type="number" >
+                0.5
+            </Value>
+            <Value property="SeqL3_16"  type="number" >
+                0.5
+            </Value>
+            <Value property="Mod_Retrig"  type="number" >
+                0
+            </Value>
+            <Value property="Mod_OneShot"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>
